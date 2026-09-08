@@ -4,6 +4,11 @@ A full-stack e-commerce analytics dashboard built using Python, Flask, SQLite, S
 
 The application analyzes sales and customer data and presents the results through an interactive web dashboard.
 
+## 🚀 Live Demo
+
+🔗 **Live Dashboard:** [Open E-Commerce Analytics Dashboard](https://ecommerce-sales-customer-analytics.onrender.com)
+
+📂 **GitHub Repository:** [View Source Code](https://github.com/dhanya-akshaya/ecommerce-sales-customer-analytics)
 ---
 
 ## Project Overview
