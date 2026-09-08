@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>E-Commerce Analytics Dashboard</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+
+<body>
+
+    <!-- =========================
+         HEADER
+    ========================== -->
+
+    <header>
+
+        <div class="header-content">
+
+            <div>
+
+                <h1>
+                    E-Commerce Analytics
+                </h1>
+
+                <p>
+                    Sales & Customer Performance Dashboard
+                </p>
+
+            </div>
+
+
+            <div class="header-badge">
+                Analytics
+            </div>
+
+        </div>
+
+    </header>
+
+
+
+    <main>
+
+
+        <!-- =========================
+             FILTERS
+        ========================== -->
+
+        <section class="filters">
+
+
+            <div class="filter-group">
+
+                <label for="categoryFilter">
+                    Category
+                </label>
+
+                <select id="categoryFilter">
+
+                    <option value="All">
+                        All Categories
+                    </option>
+
+                    <option value="Electronics">
+                        Electronics
+                    </option>
+
+                    <option value="Appliances">
+                        Appliances
+                    </option>
+
+                    <option value="Home">
+                        Home
+                    </option>
+
+                    <option value="Fashion">
+                        Fashion
+                    </option>
+
+                    <option value="Stationery">
+                        Stationery
+                    </option>
+
+                    <option value="Accessories">
+                        Accessories
+                    </option>
+
+                </select>
+
+            </div>
+
+
+
+            <div class="filter-group">
+
+                <label for="cityFilter">
+                    City
+                </label>
+
+                <select id="cityFilter">
+
+                    <option value="All">
+                        All Cities
+                    </option>
+
+                    <option value="Bangalore">
+                        Bangalore
+                    </option>
+
+                    <option value="Hyderabad">
+                        Hyderabad
+                    </option>
+
+                    <option value="Mumbai">
+                        Mumbai
+                    </option>
+
+                    <option value="Delhi">
+                        Delhi
+                    </option>
+
+                    <option value="Pune">
+                        Pune
+                    </option>
+
+                    <option value="Kolkata">
+                        Kolkata
+                    </option>
+
+                    <option value="Chennai">
+                        Chennai
+                    </option>
+
+                    <option value="Ahmedabad">
+                        Ahmedabad
+                    </option>
+
+                    <option value="Jaipur">
+                        Jaipur
+                    </option>
+
+                    <option value="Kochi">
+                        Kochi
+                    </option>
+
+                </select>
+
+            </div>
+
+
+
+            <div class="filter-group">
+
+                <label for="fromDate">
+                    From Date
+                </label>
+
+                <input
+                    type="date"
+                    id="fromDate"
+                >
+
+            </div>
+
+
+
+            <div class="filter-group">
+
+                <label for="toDate">
+                    To Date
+                </label>
+
+                <input
+                    type="date"
+                    id="toDate"
+                >
+
+            </div>
+
+
+
+            <button
+                id="applyFilters"
+                class="filter-button"
+            >
+                Apply Filters
+            </button>
+
+
+
+            <button
+                id="resetFilters"
+                class="reset-button"
+            >
+                Reset
+            </button>
+
+
+        </section>
+
+
+
+        <!-- =========================
+             KPI CARDS
+        ========================== -->
+
+        <section class="cards">
+
+
+            <div class="card">
+
+                <span class="card-title">
+                    Total Revenue
+                </span>
+
+                <h2 id="revenue">
+                    Loading...
+                </h2>
+
+            </div>
+
+
+
+            <div class="card">
+
+                <span class="card-title">
+                    Total Orders
+                </span>
+
+                <h2 id="orders">
+                    Loading...
+                </h2>
+
+            </div>
+
+
+
+            <div class="card">
+
+                <span class="card-title">
+                    Customers
+                </span>
+
+                <h2 id="customers">
+                    Loading...
+                </h2>
+
+            </div>
+
+
+
+            <div class="card">
+
+                <span class="card-title">
+                    Average Order Value
+                </span>
+
+                <h2 id="average-order">
+                    Loading...
+                </h2>
+
+            </div>
+
+
+        </section>
+
+
+
+        <!-- =========================
+             REVENUE + CATEGORY
+        ========================== -->
+
+        <section class="dashboard-grid">
+
+
+            <div class="panel large-panel">
+
+                <div class="panel-header">
+
+                    <div>
+
+                        <h2>
+                            Revenue Trend
+                        </h2>
+
+                        <p>
+                            Monthly revenue performance
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+                <canvas id="monthlySalesChart"></canvas>
+
+            </div>
+
+
+
+            <div class="panel">
+
+                <div class="panel-header">
+
+                    <div>
+
+                        <h2>
+                            Sales by Category
+                        </h2>
+
+                        <p>
+                            Revenue distribution
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+                <canvas id="categorySalesChart"></canvas>
+
+            </div>
+
+
+        </section>
+
+
+
+        <!-- =========================
+             CITY + PAYMENT
+        ========================== -->
+
+        <section class="dashboard-grid">
+
+
+            <div class="panel">
+
+                <div class="panel-header">
+
+                    <div>
+
+                        <h2>
+                            Sales by City
+                        </h2>
+
+                        <p>
+                            Revenue by customer location
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+                <canvas id="citySalesChart"></canvas>
+
+            </div>
+
+
+
+            <div class="panel">
+
+                <div class="panel-header">
+
+                    <div>
+
+                        <h2>
+                            Payment Methods
+                        </h2>
+
+                        <p>
+                            Orders by payment method
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+                <canvas id="paymentChart"></canvas>
+
+            </div>
+
+
+        </section>
+
+
+
+        <!-- =========================
+             TOP PRODUCTS
+        ========================== -->
+
+        <section class="panel">
+
+
+            <div class="panel-header">
+
+                <div>
+
+                    <h2>
+                        Top Products
+                    </h2>
+
+                    <p>
+                        Best-performing products by revenue
+                    </p>
+
+                </div>
+
+            </div>
+
+
+
+            <div class="table-wrapper">
+
+                <table>
+
+                    <thead>
+
+                        <tr>
+
+                            <th>
+                                Rank
+                            </th>
+
+                            <th>
+                                Product
+                            </th>
+
+                            <th>
+                                Quantity Sold
+                            </th>
+
+                            <th>
+                                Revenue
+                            </th>
+
+                        </tr>
+
+                    </thead>
+
+
+                    <tbody id="products-table">
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+
+        </section>
+
+
+
+        <!-- =========================
+             TOP CUSTOMERS
+        ========================== -->
+
+        <section class="panel">
+
+
+            <div class="panel-header">
+
+                <div>
+
+                    <h2>
+                        Top Customers
+                    </h2>
+
+                    <p>
+                        Highest-value customers
+                    </p>
+
+                </div>
+
+            </div>
+
+
+
+            <div class="table-wrapper">
+
+                <table>
+
+                    <thead>
+
+                        <tr>
+
+                            <th>
+                                Rank
+                            </th>
+
+                            <th>
+                                Customer
+                            </th>
+
+                            <th>
+                                City
+                            </th>
+
+                            <th>
+                                Orders
+                            </th>
+
+                            <th>
+                                Total Spending
+                            </th>
+
+                        </tr>
+
+                    </thead>
+
+
+                    <tbody id="customers-table">
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+
+        </section>
+
+
+    </main>
+
+
+
+    <!-- =========================
+         FOOTER
+    ========================== -->
+
+    <footer>
+
+        <p>
+            E-Commerce Sales & Customer Analytics
+        </p>
+
+    </footer>
+
+
+
+    <!-- JavaScript -->
+
+    <script
+        src="{{ url_for('static', filename='script.js') }}">
+    </script>
+
+
+</body>
+
+</html>

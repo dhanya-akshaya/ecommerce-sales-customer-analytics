@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,CustomerName,Product,Category,Quantity,Price,City,PaymentMethod
+10001,2026-08-21,C011,Vikram 11,Bed,Home,1,17709.21,Jaipur,Net Banking
+10002,2025-11-18,C134,Varun 134,Dress,Fashion,3,2069.87,Delhi,Credit Card
+10003,2025-11-04,C068,Kavya 68,Handbag,Fashion,2,2585.85,Kolkata,Cash on Delivery
+10004,2026-07-31,C081,Kavya 81,Laptop Bag,Accessories,1,1623.35,Mumbai,UPI
+10005,2025-05-16,C019,Rahul 19,Table,Home,2,4505.3,Kolkata,Debit Card
+10006,2025-06-11,C018,Aditya 18,Microwave,Appliances,2,11686.87,Bangalore,Cash on Delivery
+10007,2026-06-26,C140,Priya 140,Pen Set,Stationery,3,153.35,Pune,UPI
+10008,2025-05-18,C142,Nikhil 142,Jeans,Fashion,1,1958.01,Ahmedabad,Debit Card
+10009,2025-06-09,C030,Kavya 30,Microwave,Appliances,1,12581.8,Bangalore,Debit Card
+10010,2025-07-28,C073,Kavya 73,Bed,Home,2,18783.4,Jaipur,Debit Card
+10011,2025-02-22,C130,Vikram 130,Sofa,Home,3,23783.48,Kolkata,UPI
+10012,2025-12-08,C109,Pooja 109,Refrigerator,Appliances,3,29082.16,Mumbai,Credit Card
+10013,2026-03-14,C068,Kavya 68,Monitor,Electronics,4,12124.03,Kolkata,Net Banking
+10014,2025-06-02,C003,Meera 3,Keyboard,Electronics,1,1633.52,Chennai,Net Banking
+10015,2025-06-01,C010,Aarav 10,Refrigerator,Appliances,3,32528.06,Jaipur,Cash on Delivery
+10016,2025-02-10,C033,Varun 33,Smartphone,Electronics,3,24323.26,Pune,Debit Card
+10017,2025-12-29,C054,Nikhil 54,Notebook,Stationery,2,206.68,Kolkata,Net Banking
+10018,2025-08-31,C105,Meera 105,Bed,Home,2,19532.75,Delhi,Credit Card
+10019,2025-12-07,C046,Vikram 46,Microwave,Appliances,4,10859.49,Kochi,Cash on Delivery
+10020,2025-04-21,C064,Rohan 64,T-Shirt,Fashion,2,951.73,Jaipur,Cash on Delivery
+10021,2026-04-17,C010,Aarav 10,Air Conditioner,Appliances,4,39668.44,Jaipur,Debit Card
+10022,2025-07-17,C079,Pooja 79,Refrigerator,Appliances,2,30226.71,Hyderabad,Cash on Delivery
+10023,2025-10-13,C085,Rahul 85,T-Shirt,Fashion,1,984.04,Jaipur,Debit Card
+10024,2025-04-29,C131,Priya 131,Handbag,Fashion,3,2719.62,Chennai,Debit Card
+10025,2026-03-21,C046,Vikram 46,Lamp,Home,3,1089.18,Kochi,Debit Card
+10026,2026-08-14,C081,Kavya 81,Saree,Fashion,1,3419.64,Mumbai,Credit Card
+10027,2026-07-06,C066,Isha 66,Smartphone,Electronics,4,22508.46,Delhi,Credit Card
+10028,2025-12-05,C094,Sanjay 94,Saree,Fashion,1,3814.21,Ahmedabad,Net Banking
+10029,2025-11-04,C081,Kavya 81,Notebook,Stationery,1,208.79,Mumbai,Net Banking
+10030,2025-10-30,C080,Ananya 80,Notebook,Stationery,4,193.05,Pune,Net Banking
+10031,2026-01-24,C033,Varun 33,Smartwatch,Electronics,4,5681.42,Pune,Credit Card
+10032,2025-01-01,C146,Sneha 146,Jeans,Fashion,4,1817.26,Bangalore,Debit Card
+10033,2025-11-26,C074,Aisha 74,Smartwatch,Electronics,4,5814.33,Mumbai,Cash on Delivery
+10034,2025-06-23,C114,Neha 114,Jacket,Fashion,2,2806.26,Ahmedabad,UPI
+10035,2025-08-29,C073,Kavya 73,Chair,Home,3,2296.69,Jaipur,Debit Card
+10036,2025-02-17,C058,Priya 58,Coffee Maker,Appliances,2,6041.56,Bangalore,Credit Card
+10037,2026-08-13,C122,Rohan 122,Bed,Home,1,17839.5,Ahmedabad,Credit Card
+10038,2025-01-06,C099,Meera 99,Sofa,Home,4,20873.53,Kochi,UPI
+10039,2026-06-15,C109,Pooja 109,Tablet,Electronics,2,19094.8,Mumbai,Cash on Delivery
+10040,2025-05-05,C013,Varun 13,Table,Home,2,4875.72,Kochi,Cash on Delivery
+10041,2026-07-27,C035,Divya 35,Coffee Maker,Appliances,4,6717.85,Mumbai,Net Banking
+10042,2026-06-01,C082,Priya 82,Calculator,Stationery,4,715.77,Mumbai,Cash on Delivery
+10043,2026-05-02,C141,Priya 141,Jacket,Fashion,2,2936.45,Hyderabad,Cash on Delivery
+10044,2025-10-11,C067,Aditya 67,Calculator,Stationery,2,747.58,Bangalore,Net Banking
+10045,2025-03-21,C125,Ananya 125,Wardrobe,Home,2,14323.79,Hyderabad,Debit Card
+10046,2026-07-08,C061,Rahul 61,T-Shirt,Fashion,3,867.55,Kolkata,UPI
+10047,2025-06-06,C036,Rohan 36,Mouse,Electronics,2,781.29,Bangalore,Credit Card
+10048,2026-04-23,C017,Arjun 17,Saree,Fashion,4,3381.62,Mumbai,Cash on Delivery
+10049,2026-08-22,C016,Aditya 16,Smartwatch,Electronics,4,5378.42,Delhi,UPI
+10050,2025-12-27,C148,Meera 148,Handbag,Fashion,4,2252.95,Kolkata,Debit Card
+10051,2026-07-14,C100,Meera 100,Air Conditioner,Appliances,4,42321.05,Hyderabad,Net Banking
+10052,2026-05-13,C057,Pooja 57,Sofa,Home,2,21000.92,Bangalore,UPI
+10053,2026-04-24,C100,Meera 100,Dress,Fashion,4,2298.64,Hyderabad,Credit Card
+10054,2025-01-28,C137,Vikram 137,Laptop,Electronics,4,56010.82,Delhi,UPI
+10055,2025-09-24,C110,Pooja 110,Mouse,Electronics,4,749.08,Kolkata,Cash on Delivery
+10056,2026-01-24,C084,Rahul 84,Smartwatch,Electronics,4,5309.53,Ahmedabad,Debit Card
+10057,2026-07-07,C108,Nikhil 108,T-Shirt,Fashion,1,894.66,Kochi,UPI
+10058,2025-02-11,C090,Neha 90,Tablet,Electronics,1,19012.44,Mumbai,UPI
+10059,2025-09-02,C064,Rohan 64,Smartwatch,Electronics,1,5633.47,Jaipur,Credit Card
+10060,2025-08-12,C122,Rohan 122,Notebook,Stationery,1,202.56,Ahmedabad,Cash on Delivery
+10061,2025-04-28,C066,Isha 66,Calculator,Stationery,3,653.49,Delhi,Credit Card
+10062,2026-08-13,C080,Ananya 80,Keyboard,Electronics,1,1628.67,Pune,Cash on Delivery
+10063,2025-09-06,C102,Meera 102,Pen Set,Stationery,2,137.28,Bangalore,UPI
+10064,2026-08-03,C078,Aisha 78,Air Conditioner,Appliances,1,44488.31,Pune,UPI
+10065,2025-03-12,C089,Sanjay 89,Table,Home,4,4645.37,Kochi,Net Banking
+10066,2025-04-19,C088,Sneha 88,Laptop,Electronics,4,58545.64,Delhi,Cash on Delivery
+10067,2026-03-22,C093,Divya 93,Wardrobe,Home,4,15621.93,Ahmedabad,Credit Card
+10068,2026-07-06,C134,Varun 134,Wardrobe,Home,3,15347.74,Delhi,Cash on Delivery
+10069,2025-09-09,C120,Varun 120,Saree,Fashion,3,3375.61,Chennai,UPI
+10070,2026-04-21,C072,Sanjay 72,Microwave,Appliances,4,11385.27,Bangalore,Net Banking
+10071,2025-11-29,C098,Nikhil 98,Dress,Fashion,1,2197.49,Jaipur,Credit Card
+10072,2025-12-15,C125,Ananya 125,Smartwatch,Electronics,3,5827.62,Hyderabad,Debit Card
+10073,2025-07-15,C071,Sanjay 71,Table,Home,1,4514.96,Chennai,UPI
+10074,2025-09-04,C062,Kiran 62,Backpack,Stationery,4,1197.26,Kochi,Cash on Delivery
+10075,2025-08-15,C126,Isha 126,Jacket,Fashion,1,2572.11,Hyderabad,Cash on Delivery
+10076,2026-06-28,C063,Varun 63,Jeans,Fashion,3,1790.37,Jaipur,Debit Card
+10077,2026-04-10,C109,Pooja 109,Backpack,Stationery,3,1164.43,Mumbai,Debit Card
+10078,2025-07-17,C079,Pooja 79,T-Shirt,Fashion,2,831.72,Hyderabad,Debit Card
+10079,2026-05-11,C031,Meera 31,Backpack,Stationery,2,1125.97,Bangalore,Debit Card
+10080,2025-07-18,C135,Neha 135,Bed,Home,3,19729.84,Jaipur,Debit Card
+10081,2026-07-01,C059,Arjun 59,Shoes,Fashion,2,2881.36,Chennai,Credit Card
+10082,2025-05-10,C071,Sanjay 71,Smartphone,Electronics,1,25266.79,Chennai,Cash on Delivery
+10083,2026-04-26,C027,Divya 27,Air Conditioner,Appliances,1,42622.14,Kochi,Cash on Delivery
+10084,2025-09-16,C113,Divya 113,Dress,Fashion,2,2404.82,Kolkata,Cash on Delivery
+10085,2025-03-17,C030,Kavya 30,Refrigerator,Appliances,1,31364.53,Bangalore,Net Banking
+10086,2025-11-08,C014,Rohan 14,Mouse,Electronics,2,849.78,Hyderabad,UPI
+10087,2025-08-20,C064,Rohan 64,Keyboard,Electronics,4,1531.9,Jaipur,Net Banking
+10088,2026-08-26,C098,Nikhil 98,Jacket,Fashion,4,2686.52,Jaipur,Cash on Delivery
+10089,2025-04-12,C079,Pooja 79,Lamp,Home,1,1226.31,Hyderabad,Credit Card
+10090,2025-06-27,C055,Divya 55,T-Shirt,Fashion,1,838.27,Mumbai,Net Banking
+10091,2026-09-01,C020,Ananya 20,Monitor,Electronics,1,11780.44,Pune,Cash on Delivery
+10092,2025-10-17,C075,Arjun 75,Smartphone,Electronics,2,23940.52,Pune,Cash on Delivery
+10093,2026-08-27,C019,Rahul 19,Notebook,Stationery,2,216.96,Kolkata,Credit Card
+10094,2025-09-30,C109,Pooja 109,Keyboard,Electronics,2,1544.29,Mumbai,Credit Card
+10095,2026-08-06,C019,Rahul 19,Smartphone,Electronics,2,26463.14,Kolkata,Debit Card
+10096,2026-02-17,C113,Divya 113,Keyboard,Electronics,4,1556.6,Kolkata,Debit Card
+10097,2025-02-10,C129,Pooja 129,Table,Home,4,4443.98,Ahmedabad,Cash on Delivery
+10098,2025-08-23,C083,Nikhil 83,Bed,Home,3,16293.11,Bangalore,Net Banking
+10099,2025-06-29,C006,Neha 6,Calculator,Stationery,3,710.67,Hyderabad,Cash on Delivery
+10100,2025-07-05,C133,Kiran 133,Wardrobe,Home,4,16248.22,Delhi,Net Banking
+10101,2026-04-27,C112,Ananya 112,Wardrobe,Home,4,16407.17,Kolkata,Debit Card
+10102,2025-06-14,C105,Meera 105,Dress,Fashion,3,2274.86,Delhi,Debit Card
+10103,2026-02-15,C106,Pooja 106,Pen Set,Stationery,4,143.65,Mumbai,Net Banking
+10104,2025-11-28,C010,Aarav 10,Jacket,Fashion,1,2696.13,Jaipur,UPI
+10105,2026-07-10,C104,Rahul 104,Air Conditioner,Appliances,1,43324.35,Jaipur,Cash on Delivery
+10106,2026-05-26,C106,Pooja 106,Smartphone,Electronics,2,25092.2,Mumbai,Cash on Delivery
+10107,2025-10-22,C014,Rohan 14,Smartwatch,Electronics,3,5554.14,Hyderabad,Cash on Delivery
+10108,2025-09-03,C125,Ananya 125,Keyboard,Electronics,1,1641.94,Hyderabad,Credit Card
+10109,2025-04-06,C080,Ananya 80,Table,Home,1,4547.03,Pune,Credit Card
+10110,2025-06-07,C030,Kavya 30,Jacket,Fashion,1,2882.72,Bangalore,Cash on Delivery
+10111,2026-05-10,C075,Arjun 75,Chair,Home,3,2457.75,Pune,Cash on Delivery
+10112,2026-06-05,C063,Varun 63,Jacket,Fashion,2,2734.81,Jaipur,Credit Card
+10113,2026-06-04,C018,Aditya 18,T-Shirt,Fashion,4,871.18,Bangalore,Debit Card
+10114,2026-08-17,C001,Ananya 1,Jeans,Fashion,3,1921.49,Hyderabad,Cash on Delivery
+10115,2026-07-20,C039,Sneha 39,Jacket,Fashion,4,2713.27,Ahmedabad,Net Banking
+10116,2025-09-02,C097,Aditya 97,Jacket,Fashion,3,3006.98,Hyderabad,Net Banking
+10117,2026-04-30,C099,Meera 99,Tablet,Electronics,4,16357.13,Kochi,Cash on Delivery
+10118,2025-02-07,C099,Meera 99,Notebook,Stationery,2,199.81,Kochi,Credit Card
+10119,2026-03-27,C129,Pooja 129,Lamp,Home,3,1288.73,Ahmedabad,UPI
+10120,2025-05-28,C135,Neha 135,Laptop Bag,Accessories,4,1625.53,Jaipur,Cash on Delivery
+10121,2025-09-29,C040,Kiran 40,Headphones,Electronics,4,2640.76,Delhi,Debit Card
+10122,2026-07-01,C102,Meera 102,Wardrobe,Home,1,16055.3,Bangalore,Cash on Delivery
+10123,2025-02-06,C082,Priya 82,Wardrobe,Home,4,16117.15,Mumbai,Net Banking
+10124,2025-04-03,C018,Aditya 18,Tablet,Electronics,3,19790.73,Bangalore,Cash on Delivery
+10125,2025-11-03,C026,Kavya 26,Calculator,Stationery,1,692.11,Kochi,UPI
+10126,2026-01-19,C012,Neha 12,Dress,Fashion,1,2109.08,Mumbai,Cash on Delivery
+10127,2025-07-04,C038,Isha 38,Tablet,Electronics,4,18237.34,Mumbai,Credit Card
+10128,2025-09-04,C045,Rohan 45,Headphones,Electronics,4,2559.86,Bangalore,Cash on Delivery
+10129,2025-09-18,C150,Meera 150,Mouse,Electronics,2,793.78,Kochi,Cash on Delivery
+10130,2026-04-22,C066,Isha 66,Notebook,Stationery,1,215.96,Delhi,Debit Card
+10131,2025-12-20,C140,Priya 140,Monitor,Electronics,1,11860.15,Pune,Net Banking
+10132,2026-04-13,C077,Sanjay 77,Wardrobe,Home,4,15570.94,Hyderabad,Debit Card
+10133,2026-01-26,C051,Meera 51,Handbag,Fashion,4,2303.33,Jaipur,Net Banking
+10134,2025-10-30,C092,Kavya 92,Lamp,Home,3,1318.25,Kolkata,UPI
+10135,2025-02-20,C102,Meera 102,T-Shirt,Fashion,1,911.87,Bangalore,Net Banking
+10136,2025-08-24,C128,Sneha 128,Refrigerator,Appliances,3,33764.74,Kolkata,Net Banking
+10137,2025-05-21,C091,Isha 91,Tablet,Electronics,2,18435.21,Mumbai,UPI
+10138,2026-01-09,C011,Vikram 11,Jeans,Fashion,4,1632.01,Jaipur,Credit Card
+10139,2026-03-02,C024,Ananya 24,Laptop Bag,Accessories,3,1737.62,Kolkata,Credit Card
+10140,2025-10-07,C052,Isha 52,Mouse,Electronics,3,804.94,Delhi,Credit Card
+10141,2025-10-30,C066,Isha 66,Laptop Bag,Accessories,4,1968.26,Delhi,Debit Card
+10142,2025-08-20,C030,Kavya 30,Jacket,Fashion,1,2598.82,Bangalore,Cash on Delivery
+10143,2025-01-15,C143,Sanjay 143,Shoes,Fashion,1,3174.41,Jaipur,Debit Card
+10144,2025-09-26,C138,Vikram 138,Keyboard,Electronics,4,1460.58,Hyderabad,Net Banking
+10145,2025-08-28,C098,Nikhil 98,Refrigerator,Appliances,3,29493.42,Jaipur,Cash on Delivery
+10146,2025-08-15,C007,Aarav 7,Bed,Home,3,19494.92,Bangalore,UPI
+10147,2025-04-30,C119,Vikram 119,Laptop Bag,Accessories,3,1853.73,Jaipur,Credit Card
+10148,2025-04-29,C012,Neha 12,Smartphone,Electronics,3,27479.64,Mumbai,UPI
+10149,2026-01-15,C061,Rahul 61,Microwave,Appliances,2,11732.75,Kolkata,Net Banking
+10150,2025-04-12,C108,Nikhil 108,Lamp,Home,2,1292.5,Kochi,Cash on Delivery
+10151,2025-08-11,C105,Meera 105,T-Shirt,Fashion,1,934.25,Delhi,Cash on Delivery
+10152,2026-01-12,C114,Neha 114,Tablet,Electronics,3,16557.68,Ahmedabad,Net Banking
+10153,2025-05-06,C092,Kavya 92,Smartphone,Electronics,4,23879.41,Kolkata,Cash on Delivery
+10154,2025-01-22,C024,Ananya 24,Notebook,Stationery,2,205.67,Kolkata,UPI
+10155,2025-07-30,C086,Arjun 86,Tablet,Electronics,2,19033.12,Chennai,UPI
+10156,2025-08-27,C142,Nikhil 142,Smartwatch,Electronics,2,5844.36,Ahmedabad,Debit Card
+10157,2025-05-29,C038,Isha 38,Coffee Maker,Appliances,1,6210.46,Mumbai,Credit Card
+10158,2025-01-27,C139,Nikhil 139,T-Shirt,Fashion,2,829.79,Jaipur,Credit Card
+10159,2025-01-17,C004,Ananya 4,Shoes,Fashion,2,3053.31,Jaipur,Credit Card
+10160,2026-06-23,C068,Kavya 68,Smartphone,Electronics,2,26208.59,Kolkata,UPI
+10161,2026-06-10,C017,Arjun 17,Sofa,Home,4,23223.27,Mumbai,Net Banking
+10162,2025-02-14,C028,Vikram 28,Jacket,Fashion,2,3049.43,Bangalore,Net Banking
+10163,2026-05-06,C078,Aisha 78,Jacket,Fashion,1,2554.06,Pune,Cash on Delivery
+10164,2026-03-31,C110,Pooja 110,Notebook,Stationery,1,199.61,Kolkata,UPI
+10165,2025-10-09,C021,Divya 21,Dress,Fashion,2,2008.9,Kochi,Net Banking
+10166,2026-06-28,C150,Meera 150,Table,Home,3,4392.81,Kochi,Debit Card
+10167,2025-04-28,C117,Aditya 117,Chair,Home,4,2299.59,Bangalore,Net Banking
+10168,2026-02-28,C056,Arjun 56,Saree,Fashion,4,3771.66,Jaipur,Debit Card
+10169,2025-11-17,C117,Aditya 117,Handbag,Fashion,4,2614.81,Bangalore,Cash on Delivery
+10170,2025-06-06,C081,Kavya 81,Notebook,Stationery,3,194.97,Mumbai,Cash on Delivery
+10171,2025-04-09,C018,Aditya 18,Headphones,Electronics,1,2296.62,Bangalore,Debit Card
+10172,2026-07-30,C034,Sneha 34,Table,Home,1,4577.82,Pune,Net Banking
+10173,2026-03-10,C085,Rahul 85,Notebook,Stationery,1,196.43,Jaipur,UPI
+10174,2026-08-15,C074,Aisha 74,Bed,Home,3,17465.93,Mumbai,Net Banking
+10175,2025-04-21,C055,Divya 55,Mouse,Electronics,4,755.88,Mumbai,Debit Card
+10176,2026-08-11,C143,Sanjay 143,Shoes,Fashion,1,3157.56,Jaipur,Credit Card
+10177,2025-10-01,C110,Pooja 110,Air Conditioner,Appliances,1,42915.56,Kolkata,UPI
+10178,2025-12-26,C047,Aditya 47,T-Shirt,Fashion,3,975.88,Mumbai,UPI
+10179,2026-02-15,C047,Aditya 47,Air Conditioner,Appliances,2,42557.1,Mumbai,UPI
+10180,2026-06-28,C037,Aisha 37,Backpack,Stationery,1,1102.02,Chennai,Credit Card
+10181,2026-01-14,C097,Aditya 97,Saree,Fashion,4,3388.63,Hyderabad,Debit Card
+10182,2025-06-09,C084,Rahul 84,Calculator,Stationery,1,753.67,Ahmedabad,Credit Card
+10183,2026-03-11,C013,Varun 13,Notebook,Stationery,1,190.88,Kochi,Cash on Delivery
+10184,2026-06-09,C114,Neha 114,Saree,Fashion,3,3300.9,Ahmedabad,UPI
+10185,2026-08-31,C089,Sanjay 89,Saree,Fashion,1,3348.27,Kochi,Cash on Delivery
+10186,2026-02-09,C135,Neha 135,Notebook,Stationery,3,181.82,Jaipur,Net Banking
+10187,2025-08-05,C015,Sneha 15,Laptop,Electronics,2,52815.61,Kolkata,Credit Card
+10188,2026-05-25,C066,Isha 66,Jeans,Fashion,3,1663.19,Delhi,Cash on Delivery
+10189,2025-08-24,C045,Rohan 45,Mouse,Electronics,4,805.21,Bangalore,Net Banking
+10190,2025-02-13,C144,Sneha 144,Refrigerator,Appliances,3,29261.28,Hyderabad,Cash on Delivery
+10191,2026-08-13,C005,Rahul 5,Jacket,Fashion,1,3002.78,Kochi,Cash on Delivery
+10192,2026-02-19,C147,Aisha 147,Handbag,Fashion,4,2394.76,Bangalore,UPI
+10193,2026-01-06,C084,Rahul 84,Monitor,Electronics,4,12796.86,Ahmedabad,UPI
+10194,2026-08-27,C112,Ananya 112,Air Conditioner,Appliances,1,39843.86,Kolkata,Cash on Delivery
+10195,2025-12-14,C135,Neha 135,Headphones,Electronics,4,2685.26,Jaipur,Credit Card
+10196,2025-04-27,C086,Arjun 86,Calculator,Stationery,2,640.69,Chennai,Net Banking
+10197,2025-06-01,C131,Priya 131,Smartwatch,Electronics,3,5336.21,Chennai,Credit Card
+10198,2025-06-06,C027,Divya 27,Mouse,Electronics,3,751.56,Kochi,UPI
+10199,2026-08-01,C046,Vikram 46,Calculator,Stationery,4,694.95,Kochi,Net Banking
+10200,2025-11-20,C115,Priya 115,Notebook,Stationery,3,214.57,Bangalore,Credit Card
+10201,2025-11-07,C113,Divya 113,Headphones,Electronics,4,2471.1,Kolkata,Debit Card
+10202,2026-04-08,C015,Sneha 15,Shoes,Fashion,1,2886.24,Kolkata,UPI
+10203,2025-04-03,C015,Sneha 15,Shoes,Fashion,3,2746.04,Kolkata,Net Banking
+10204,2025-02-12,C130,Vikram 130,Handbag,Fashion,4,2540.16,Kolkata,Cash on Delivery
+10205,2026-05-03,C147,Aisha 147,Wardrobe,Home,2,14464.58,Bangalore,Net Banking
+10206,2025-12-18,C039,Sneha 39,Smartphone,Electronics,4,23017.51,Ahmedabad,UPI
+10207,2026-03-25,C130,Vikram 130,Wardrobe,Home,2,13617.43,Kolkata,Cash on Delivery
+10208,2025-10-17,C135,Neha 135,Chair,Home,2,2431.95,Jaipur,Cash on Delivery
+10209,2025-02-23,C105,Meera 105,Calculator,Stationery,3,725.05,Delhi,Debit Card
+10210,2026-01-31,C017,Arjun 17,Dress,Fashion,1,2225.5,Mumbai,Debit Card
+10211,2026-08-20,C065,Aarav 65,Backpack,Stationery,2,1160.01,Bangalore,Credit Card
+10212,2025-03-28,C090,Neha 90,Jeans,Fashion,4,1666.42,Mumbai,Debit Card
+10213,2026-06-24,C144,Sneha 144,Handbag,Fashion,3,2656.59,Hyderabad,UPI
+10214,2025-11-13,C109,Pooja 109,Chair,Home,3,2259.12,Mumbai,Credit Card
+10215,2025-05-21,C055,Divya 55,Dress,Fashion,4,2064.48,Mumbai,Credit Card
+10216,2026-07-07,C020,Ananya 20,Jeans,Fashion,1,1802.77,Pune,Net Banking
+10217,2025-05-15,C010,Aarav 10,Notebook,Stationery,3,215.06,Jaipur,Net Banking
+10218,2025-06-19,C097,Aditya 97,Mouse,Electronics,2,748.94,Hyderabad,Cash on Delivery
+10219,2025-09-01,C012,Neha 12,Saree,Fashion,3,3623.45,Mumbai,Cash on Delivery
+10220,2025-09-02,C073,Kavya 73,Calculator,Stationery,4,662.76,Jaipur,Debit Card
+10221,2026-08-08,C121,Neha 121,Microwave,Appliances,2,11682.82,Chennai,Cash on Delivery
+10222,2026-05-30,C119,Vikram 119,Calculator,Stationery,3,738.94,Jaipur,Net Banking
+10223,2025-05-22,C108,Nikhil 108,Monitor,Electronics,2,12723.02,Kochi,Debit Card
+10224,2026-07-22,C014,Rohan 14,Wardrobe,Home,4,16122.35,Hyderabad,UPI
+10225,2025-06-14,C133,Kiran 133,Air Conditioner,Appliances,1,40194.53,Delhi,Debit Card
+10226,2025-04-04,C116,Priya 116,Microwave,Appliances,2,12794.51,Kolkata,Credit Card
+10227,2026-03-01,C116,Priya 116,Microwave,Appliances,3,13033.13,Kolkata,UPI
+10228,2025-03-25,C102,Meera 102,Chair,Home,3,2367.89,Bangalore,Debit Card
+10229,2025-12-10,C058,Priya 58,Laptop,Electronics,3,59739.08,Bangalore,Credit Card
+10230,2026-04-29,C036,Rohan 36,Smartphone,Electronics,3,27086.98,Bangalore,Credit Card
+10231,2025-01-20,C121,Neha 121,Jacket,Fashion,1,3027.28,Chennai,Debit Card
+10232,2026-06-25,C056,Arjun 56,Refrigerator,Appliances,2,32312.35,Jaipur,Cash on Delivery
+10233,2025-05-05,C029,Priya 29,Calculator,Stationery,3,663.27,Mumbai,UPI
+10234,2026-05-27,C062,Kiran 62,Saree,Fashion,4,3193.97,Kochi,Net Banking
+10235,2025-10-26,C138,Vikram 138,Laptop,Electronics,2,57403.99,Hyderabad,Cash on Delivery
+10236,2026-03-03,C001,Ananya 1,Bed,Home,3,17066.03,Hyderabad,Credit Card
+10237,2026-06-23,C022,Rohan 22,Chair,Home,3,2283.84,Hyderabad,Net Banking
+10238,2026-04-27,C130,Vikram 130,Coffee Maker,Appliances,1,6357.59,Kolkata,UPI
+10239,2026-01-01,C100,Meera 100,Shoes,Fashion,3,3148.39,Hyderabad,UPI
+10240,2025-12-07,C089,Sanjay 89,Tablet,Electronics,1,18977.4,Kochi,Credit Card
+10241,2025-06-29,C012,Neha 12,Shoes,Fashion,3,3188.11,Mumbai,Cash on Delivery
+10242,2025-03-06,C123,Meera 123,Wardrobe,Home,2,15934.49,Bangalore,Cash on Delivery
+10243,2025-07-24,C010,Aarav 10,Jeans,Fashion,2,1635.77,Jaipur,UPI
+10244,2026-07-11,C081,Kavya 81,Laptop Bag,Accessories,3,1805.54,Mumbai,Cash on Delivery
+10245,2025-02-18,C065,Aarav 65,Smartphone,Electronics,2,23930.55,Bangalore,Debit Card
+10246,2026-02-14,C070,Aarav 70,Keyboard,Electronics,3,1481.09,Delhi,Cash on Delivery
+10247,2026-05-25,C099,Meera 99,Dress,Fashion,2,2198.33,Kochi,Debit Card
+10248,2025-03-22,C133,Kiran 133,T-Shirt,Fashion,1,940.87,Delhi,Cash on Delivery
+10249,2025-03-23,C047,Aditya 47,Table,Home,3,4339.09,Mumbai,Debit Card
+10250,2026-03-13,C076,Sneha 76,Jeans,Fashion,4,1836.94,Jaipur,Credit Card
+10251,2025-12-28,C114,Neha 114,Shoes,Fashion,4,2725.41,Ahmedabad,Net Banking
+10252,2026-02-20,C112,Ananya 112,T-Shirt,Fashion,1,823.51,Kolkata,Debit Card
+10253,2025-05-27,C132,Kiran 132,Coffee Maker,Appliances,2,7088.63,Hyderabad,Net Banking
+10254,2026-01-11,C113,Divya 113,Smartphone,Electronics,2,22836.17,Kolkata,Debit Card
+10255,2026-04-06,C099,Meera 99,Lamp,Home,1,1225.22,Kochi,Debit Card
+10256,2026-06-27,C096,Meera 96,Jacket,Fashion,1,2841.4,Bangalore,Debit Card
+10257,2025-04-27,C102,Meera 102,Dress,Fashion,3,2089.83,Bangalore,UPI
+10258,2025-05-01,C048,Pooja 48,Sofa,Home,4,23819.59,Kolkata,Debit Card
+10259,2025-10-20,C067,Aditya 67,Pen Set,Stationery,4,141.44,Bangalore,Cash on Delivery
+10260,2026-04-08,C052,Isha 52,Keyboard,Electronics,2,1605.85,Delhi,Credit Card
+10261,2025-03-08,C114,Neha 114,Headphones,Electronics,3,2583.92,Ahmedabad,Net Banking
+10262,2025-06-28,C139,Nikhil 139,Jeans,Fashion,3,1926.49,Jaipur,Debit Card
+10263,2025-05-23,C131,Priya 131,Tablet,Electronics,1,19746.48,Chennai,Credit Card
+10264,2026-01-13,C127,Rahul 127,Laptop,Electronics,3,55594.24,Mumbai,Cash on Delivery
+10265,2026-02-12,C142,Nikhil 142,Mouse,Electronics,1,730.52,Ahmedabad,Cash on Delivery
+10266,2025-03-17,C135,Neha 135,Saree,Fashion,4,3726.34,Jaipur,Credit Card
+10267,2026-06-14,C082,Priya 82,Wardrobe,Home,1,14849.92,Mumbai,Debit Card
+10268,2025-05-13,C033,Varun 33,Microwave,Appliances,2,12642.68,Pune,Cash on Delivery
+10269,2026-06-15,C129,Pooja 129,Laptop Bag,Accessories,1,1919.3,Ahmedabad,Credit Card
+10270,2025-08-19,C078,Aisha 78,Monitor,Electronics,2,11574.39,Pune,Debit Card
+10271,2025-09-14,C133,Kiran 133,Microwave,Appliances,3,12830.24,Delhi,Credit Card
+10272,2026-07-01,C142,Nikhil 142,T-Shirt,Fashion,2,922.5,Ahmedabad,UPI
+10273,2026-08-18,C129,Pooja 129,Wardrobe,Home,2,15275.43,Ahmedabad,Credit Card
+10274,2026-08-01,C044,Aditya 44,Notebook,Stationery,3,213.7,Kolkata,UPI
+10275,2026-08-14,C008,Vikram 8,Headphones,Electronics,1,2724.27,Mumbai,Debit Card
+10276,2025-02-01,C054,Nikhil 54,Calculator,Stationery,4,716.54,Kolkata,Cash on Delivery
+10277,2026-02-20,C140,Priya 140,Jeans,Fashion,3,1793.86,Pune,Debit Card
+10278,2026-03-02,C117,Aditya 117,Headphones,Electronics,1,2329.04,Bangalore,Cash on Delivery
+10279,2025-11-17,C119,Vikram 119,Smartwatch,Electronics,3,5617.33,Jaipur,Debit Card
+10280,2026-06-12,C089,Sanjay 89,Handbag,Fashion,2,2630.33,Kochi,Net Banking
+10281,2025-10-01,C028,Vikram 28,Dress,Fashion,2,2185.25,Bangalore,Cash on Delivery
+10282,2026-01-29,C064,Rohan 64,Mouse,Electronics,1,728.1,Jaipur,Net Banking
+10283,2026-08-15,C108,Nikhil 108,Tablet,Electronics,2,19128.52,Kochi,Debit Card
+10284,2026-06-12,C049,Varun 49,Calculator,Stationery,2,699.76,Chennai,Cash on Delivery
+10285,2025-04-03,C128,Sneha 128,Microwave,Appliances,3,11993.69,Kolkata,Cash on Delivery
+10286,2025-12-28,C130,Vikram 130,Jacket,Fashion,2,2640.48,Kolkata,UPI
+10287,2026-04-27,C013,Varun 13,Jeans,Fashion,4,1835.11,Kochi,Debit Card
+10288,2025-09-28,C138,Vikram 138,Laptop,Electronics,1,54240.21,Hyderabad,Debit Card
+10289,2026-08-07,C104,Rahul 104,Shoes,Fashion,1,2940.35,Jaipur,Net Banking
+10290,2026-06-01,C050,Rohan 50,Shoes,Fashion,3,2744.12,Chennai,Cash on Delivery
+10291,2025-04-10,C141,Priya 141,T-Shirt,Fashion,1,833.16,Hyderabad,Cash on Delivery
+10292,2026-01-10,C096,Meera 96,Coffee Maker,Appliances,3,6575.18,Bangalore,Credit Card
+10293,2025-02-16,C051,Meera 51,Bed,Home,4,18000.28,Jaipur,UPI
+10294,2026-06-16,C036,Rohan 36,Pen Set,Stationery,3,159.12,Bangalore,Cash on Delivery
+10295,2025-11-23,C039,Sneha 39,Bed,Home,2,17380.68,Ahmedabad,Credit Card
+10296,2026-06-04,C101,Rahul 101,Bed,Home,3,18337.41,Hyderabad,Net Banking
+10297,2025-01-18,C137,Vikram 137,Sofa,Home,3,21889.53,Delhi,Debit Card
+10298,2026-08-21,C085,Rahul 85,Notebook,Stationery,1,219.2,Jaipur,Debit Card
+10299,2026-08-16,C007,Aarav 7,Bed,Home,4,17155.91,Bangalore,Net Banking
+10300,2025-06-24,C059,Arjun 59,Backpack,Stationery,1,1220.05,Chennai,Net Banking
+10301,2025-04-23,C098,Nikhil 98,Mouse,Electronics,2,725.05,Jaipur,Credit Card
+10302,2026-02-27,C005,Rahul 5,Jacket,Fashion,3,2754.52,Kochi,Credit Card
+10303,2025-03-05,C106,Pooja 106,Chair,Home,4,2686.41,Mumbai,Credit Card
+10304,2026-05-05,C133,Kiran 133,Smartwatch,Electronics,3,6047.94,Delhi,Net Banking
+10305,2026-06-30,C097,Aditya 97,Dress,Fashion,2,2182.25,Hyderabad,Debit Card
+10306,2025-07-16,C140,Priya 140,Shoes,Fashion,3,3066.05,Pune,Credit Card
+10307,2025-11-01,C072,Sanjay 72,Table,Home,3,4252.38,Bangalore,Debit Card
+10308,2025-12-24,C054,Nikhil 54,Pen Set,Stationery,4,144.51,Kolkata,Net Banking
+10309,2026-07-11,C071,Sanjay 71,Jeans,Fashion,1,1826.45,Chennai,Cash on Delivery
+10310,2025-05-30,C102,Meera 102,Refrigerator,Appliances,3,34909.5,Bangalore,Debit Card
+10311,2026-03-29,C011,Vikram 11,Jeans,Fashion,1,1744.69,Jaipur,Debit Card
+10312,2025-10-05,C123,Meera 123,Smartwatch,Electronics,2,5860.75,Bangalore,Net Banking
+10313,2026-08-24,C070,Aarav 70,Mouse,Electronics,1,818.51,Delhi,Credit Card
+10314,2025-02-23,C063,Varun 63,Smartphone,Electronics,2,25689.72,Jaipur,UPI
+10315,2025-05-21,C106,Pooja 106,Dress,Fashion,4,2024.24,Mumbai,UPI
+10316,2026-05-03,C141,Priya 141,Laptop Bag,Accessories,2,1766.49,Hyderabad,Cash on Delivery
+10317,2025-03-02,C052,Isha 52,Calculator,Stationery,3,674.96,Delhi,UPI
+10318,2025-06-29,C147,Aisha 147,Tablet,Electronics,1,19487.63,Bangalore,Cash on Delivery
+10319,2026-02-11,C046,Vikram 46,Laptop Bag,Accessories,1,1978.98,Kochi,Cash on Delivery
+10320,2025-01-10,C048,Pooja 48,Laptop Bag,Accessories,3,1935.63,Kolkata,Debit Card
+10321,2025-12-10,C146,Sneha 146,Bed,Home,1,19542.44,Bangalore,Debit Card
+10322,2025-05-18,C117,Aditya 117,Wardrobe,Home,4,16167.78,Bangalore,Net Banking
+10323,2025-12-05,C120,Varun 120,T-Shirt,Fashion,2,955.59,Chennai,Credit Card
+10324,2025-01-15,C118,Meera 118,Wardrobe,Home,3,15655.79,Mumbai,Debit Card
+10325,2026-02-20,C076,Sneha 76,Lamp,Home,2,1122.12,Jaipur,Cash on Delivery
+10326,2025-04-08,C132,Kiran 132,Dress,Fashion,1,2156.37,Hyderabad,Credit Card
+10327,2025-01-07,C036,Rohan 36,Sofa,Home,3,23917.63,Bangalore,Debit Card
+10328,2025-12-04,C099,Meera 99,Tablet,Electronics,4,18913.52,Kochi,Debit Card
+10329,2026-01-04,C150,Meera 150,Backpack,Stationery,1,1142.77,Kochi,Credit Card
+10330,2025-06-13,C016,Aditya 16,Notebook,Stationery,1,198.62,Delhi,Cash on Delivery
+10331,2025-10-30,C129,Pooja 129,Laptop Bag,Accessories,3,1868.5,Ahmedabad,Debit Card
+10332,2026-04-11,C057,Pooja 57,Tablet,Electronics,2,17921.45,Bangalore,Net Banking
+10333,2025-08-12,C096,Meera 96,Saree,Fashion,4,3680.15,Bangalore,Credit Card
+10334,2026-01-06,C021,Divya 21,Chair,Home,4,2514.09,Kochi,UPI
+10335,2026-06-02,C145,Sanjay 145,Keyboard,Electronics,1,1598.63,Bangalore,Credit Card
+10336,2026-06-17,C147,Aisha 147,Table,Home,2,4198.08,Bangalore,Cash on Delivery
+10337,2026-05-16,C030,Kavya 30,Notebook,Stationery,2,208.68,Bangalore,UPI
+10338,2026-06-10,C131,Priya 131,Jacket,Fashion,1,2773.92,Chennai,Cash on Delivery
+10339,2025-11-12,C117,Aditya 117,Lamp,Home,1,1214.11,Bangalore,UPI
+10340,2026-08-16,C102,Meera 102,T-Shirt,Fashion,1,944.24,Bangalore,UPI
+10341,2026-07-09,C012,Neha 12,Saree,Fashion,3,3640.27,Mumbai,UPI
+10342,2026-02-23,C018,Aditya 18,Laptop Bag,Accessories,4,1631.42,Bangalore,Credit Card
+10343,2026-01-27,C035,Divya 35,Calculator,Stationery,4,682.42,Mumbai,Cash on Delivery
+10344,2026-07-07,C097,Aditya 97,Handbag,Fashion,1,2591.37,Hyderabad,Credit Card
+10345,2026-02-07,C090,Neha 90,Keyboard,Electronics,2,1647.85,Mumbai,Net Banking
+10346,2025-01-24,C033,Varun 33,Backpack,Stationery,2,1280.36,Pune,Debit Card
+10347,2025-08-24,C119,Vikram 119,Notebook,Stationery,4,201.28,Jaipur,Credit Card
+10348,2025-04-26,C118,Meera 118,Shoes,Fashion,2,2865.39,Mumbai,UPI
+10349,2025-03-10,C108,Nikhil 108,Bed,Home,1,17066.4,Kochi,UPI
+10350,2025-02-15,C009,Sanjay 9,Jacket,Fashion,1,2657.05,Kochi,Cash on Delivery
+10351,2025-02-27,C113,Divya 113,Tablet,Electronics,2,18915.79,Kolkata,Credit Card
+10352,2026-08-13,C129,Pooja 129,Jeans,Fashion,2,1913.68,Ahmedabad,Debit Card
+10353,2025-05-27,C148,Meera 148,Bed,Home,3,17052.85,Kolkata,Net Banking
+10354,2026-07-25,C057,Pooja 57,Saree,Fashion,3,3342.61,Bangalore,Net Banking
+10355,2025-02-18,C045,Rohan 45,Wardrobe,Home,4,15167.55,Bangalore,Debit Card
+10356,2026-02-23,C098,Nikhil 98,Coffee Maker,Appliances,3,6755.2,Jaipur,Credit Card
+10357,2026-04-30,C077,Sanjay 77,Handbag,Fashion,2,2627.21,Hyderabad,Credit Card
+10358,2025-03-01,C058,Priya 58,Jeans,Fashion,2,1910.08,Bangalore,Net Banking
+10359,2025-09-19,C106,Pooja 106,Saree,Fashion,2,3421.89,Mumbai,Credit Card
+10360,2026-01-15,C085,Rahul 85,Wardrobe,Home,1,16266.68,Jaipur,UPI
+10361,2026-01-22,C138,Vikram 138,Backpack,Stationery,2,1092.37,Hyderabad,Net Banking
+10362,2026-08-25,C011,Vikram 11,Air Conditioner,Appliances,1,39380.57,Jaipur,Net Banking
+10363,2025-12-07,C056,Arjun 56,Sofa,Home,2,23625.68,Jaipur,Debit Card
+10364,2025-05-01,C004,Ananya 4,Smartwatch,Electronics,2,6008.29,Jaipur,Cash on Delivery
+10365,2025-09-03,C063,Varun 63,Pen Set,Stationery,2,146.9,Jaipur,Net Banking
+10366,2026-07-01,C083,Nikhil 83,Calculator,Stationery,3,683.29,Bangalore,Debit Card
+10367,2026-05-25,C079,Pooja 79,T-Shirt,Fashion,3,902.31,Hyderabad,Cash on Delivery
+10368,2025-11-24,C026,Kavya 26,Coffee Maker,Appliances,4,6840.12,Kochi,Credit Card
+10369,2025-08-15,C095,Ananya 95,Dress,Fashion,4,2000.11,Mumbai,Credit Card
+10370,2025-07-20,C005,Rahul 5,T-Shirt,Fashion,4,863.13,Kochi,Debit Card
+10371,2025-12-12,C059,Arjun 59,Handbag,Fashion,2,2499.65,Chennai,Debit Card
+10372,2025-12-27,C126,Isha 126,Backpack,Stationery,4,1190.6,Hyderabad,Credit Card
+10373,2026-07-10,C036,Rohan 36,Backpack,Stationery,4,1124.17,Bangalore,UPI
+10374,2025-02-19,C135,Neha 135,Smartphone,Electronics,1,27225.94,Jaipur,UPI
+10375,2025-06-04,C106,Pooja 106,Mouse,Electronics,2,730.87,Mumbai,UPI
+10376,2026-05-10,C056,Arjun 56,Chair,Home,4,2436.6,Jaipur,Cash on Delivery
+10377,2026-06-27,C005,Rahul 5,Laptop,Electronics,4,49630.36,Kochi,Debit Card
+10378,2026-03-17,C138,Vikram 138,Jeans,Fashion,1,1800.8,Hyderabad,Credit Card
+10379,2025-09-04,C028,Vikram 28,Laptop Bag,Accessories,1,1808.78,Bangalore,Credit Card
+10380,2026-02-11,C135,Neha 135,T-Shirt,Fashion,3,858.12,Jaipur,UPI
+10381,2025-08-20,C096,Meera 96,Handbag,Fashion,4,2532.5,Bangalore,Debit Card
+10382,2026-01-24,C021,Divya 21,Wardrobe,Home,1,13780.5,Kochi,Cash on Delivery
+10383,2025-06-25,C142,Nikhil 142,Sofa,Home,1,22601.69,Ahmedabad,UPI
+10384,2025-12-06,C128,Sneha 128,Air Conditioner,Appliances,4,43217.22,Kolkata,Net Banking
+10385,2026-08-04,C025,Rahul 25,Microwave,Appliances,1,11351.44,Jaipur,Cash on Delivery
+10386,2025-10-15,C070,Aarav 70,Smartphone,Electronics,1,25922.14,Delhi,Net Banking
+10387,2025-11-19,C145,Sanjay 145,Notebook,Stationery,1,187.17,Bangalore,UPI
+10388,2026-02-12,C054,Nikhil 54,Lamp,Home,2,1260.54,Kolkata,UPI
+10389,2026-02-03,C077,Sanjay 77,Monitor,Electronics,2,12160.07,Hyderabad,Net Banking
+10390,2025-03-22,C085,Rahul 85,Handbag,Fashion,2,2645.25,Jaipur,Net Banking
+10391,2025-03-19,C089,Sanjay 89,Smartphone,Electronics,1,24685.44,Kochi,Debit Card
+10392,2025-10-07,C102,Meera 102,Calculator,Stationery,3,634.15,Bangalore,Cash on Delivery
+10393,2026-01-20,C126,Isha 126,Tablet,Electronics,3,18190.94,Hyderabad,Cash on Delivery
+10394,2025-10-30,C048,Pooja 48,Notebook,Stationery,4,183.43,Kolkata,Credit Card
+10395,2025-06-07,C019,Rahul 19,Headphones,Electronics,3,2327.11,Kolkata,Cash on Delivery
+10396,2025-11-12,C082,Priya 82,Shoes,Fashion,1,2754.91,Mumbai,Cash on Delivery
+10397,2025-03-31,C093,Divya 93,Calculator,Stationery,3,644.31,Ahmedabad,Credit Card
+10398,2025-04-02,C111,Vikram 111,Jacket,Fashion,4,2577.84,Bangalore,Debit Card
+10399,2025-01-13,C142,Nikhil 142,Headphones,Electronics,3,2681.86,Ahmedabad,Debit Card
+10400,2026-07-27,C106,Pooja 106,Handbag,Fashion,1,2612.42,Mumbai,Credit Card
+10401,2025-06-23,C147,Aisha 147,Chair,Home,2,2592.66,Bangalore,Credit Card
+10402,2025-03-06,C069,Sneha 69,Jeans,Fashion,3,1797.52,Ahmedabad,Credit Card
+10403,2025-03-20,C112,Ananya 112,T-Shirt,Fashion,4,863.96,Kolkata,Debit Card
+10404,2025-07-20,C065,Aarav 65,Tablet,Electronics,4,18337.7,Bangalore,Cash on Delivery
+10405,2026-02-10,C028,Vikram 28,Mouse,Electronics,3,721.08,Bangalore,Debit Card
+10406,2026-03-17,C098,Nikhil 98,Coffee Maker,Appliances,3,6422.29,Jaipur,Net Banking
+10407,2025-07-25,C035,Divya 35,Jeans,Fashion,3,1837.16,Mumbai,Cash on Delivery
+10408,2025-10-26,C081,Kavya 81,Monitor,Electronics,4,13124.94,Mumbai,Cash on Delivery
+10409,2025-10-15,C148,Meera 148,Coffee Maker,Appliances,2,6273.65,Kolkata,Cash on Delivery
+10410,2026-07-13,C094,Sanjay 94,Keyboard,Electronics,2,1527.67,Ahmedabad,Credit Card
+10411,2025-08-03,C141,Priya 141,Laptop,Electronics,4,59872.72,Hyderabad,Cash on Delivery
+10412,2026-02-23,C075,Arjun 75,Refrigerator,Appliances,1,34041.38,Pune,Cash on Delivery
+10413,2025-06-07,C036,Rohan 36,Wardrobe,Home,3,14226.06,Bangalore,Cash on Delivery
+10414,2026-05-06,C097,Aditya 97,Headphones,Electronics,4,2745.35,Hyderabad,Net Banking
+10415,2026-01-04,C103,Priya 103,Table,Home,4,4539.28,Pune,Net Banking
+10416,2025-12-30,C022,Rohan 22,Keyboard,Electronics,2,1547.28,Hyderabad,Credit Card
+10417,2025-12-06,C012,Neha 12,Lamp,Home,4,1312.03,Mumbai,Cash on Delivery
+10418,2026-06-07,C028,Vikram 28,Laptop,Electronics,1,52346.12,Bangalore,Net Banking
+10419,2026-02-05,C143,Sanjay 143,Lamp,Home,2,1186.99,Jaipur,Cash on Delivery
+10420,2026-05-10,C129,Pooja 129,Mouse,Electronics,3,879.63,Ahmedabad,UPI
+10421,2025-05-26,C076,Sneha 76,Saree,Fashion,1,3231.25,Jaipur,Debit Card
+10422,2026-06-18,C080,Ananya 80,Dress,Fashion,4,2325.08,Pune,Cash on Delivery
+10423,2026-04-09,C090,Neha 90,Sofa,Home,1,21727.93,Mumbai,Debit Card
+10424,2025-04-28,C018,Aditya 18,Jeans,Fashion,1,1911.67,Bangalore,UPI
+10425,2025-06-18,C088,Sneha 88,Wardrobe,Home,1,15531.42,Delhi,Credit Card
+10426,2026-03-13,C133,Kiran 133,Monitor,Electronics,2,11594.38,Delhi,Cash on Delivery
+10427,2025-07-10,C060,Neha 60,Coffee Maker,Appliances,4,6668.69,Kochi,Cash on Delivery
+10428,2026-03-16,C102,Meera 102,Laptop,Electronics,2,54445.33,Bangalore,Cash on Delivery
+10429,2025-03-06,C002,Rohan 2,Pen Set,Stationery,2,141.17,Mumbai,Net Banking
+10430,2025-07-21,C027,Divya 27,Coffee Maker,Appliances,2,6325.53,Kochi,Cash on Delivery
+10431,2025-11-17,C030,Kavya 30,T-Shirt,Fashion,4,904.99,Bangalore,Net Banking
+10432,2025-12-23,C100,Meera 100,Bed,Home,4,18313.22,Hyderabad,Debit Card
+10433,2025-11-01,C118,Meera 118,Bed,Home,2,19129.46,Mumbai,Net Banking
+10434,2025-09-02,C022,Rohan 22,Notebook,Stationery,2,192.53,Hyderabad,Debit Card
+10435,2026-06-08,C030,Kavya 30,Monitor,Electronics,3,12464.25,Bangalore,Cash on Delivery
+10436,2026-03-10,C108,Nikhil 108,Bed,Home,2,18269.3,Kochi,Credit Card
+10437,2026-05-17,C125,Ananya 125,Wardrobe,Home,2,15164.74,Hyderabad,Debit Card
+10438,2025-02-24,C036,Rohan 36,Monitor,Electronics,3,12820.76,Bangalore,Debit Card
+10439,2026-01-29,C003,Meera 3,Sofa,Home,2,20658.57,Chennai,Net Banking
+10440,2026-05-19,C130,Vikram 130,Wardrobe,Home,4,14727.4,Kolkata,Cash on Delivery
+10441,2025-02-01,C114,Neha 114,Sofa,Home,2,20163.75,Ahmedabad,Credit Card
+10442,2025-10-23,C075,Arjun 75,Smartphone,Electronics,3,23624.22,Pune,Credit Card
+10443,2025-04-26,C118,Meera 118,Lamp,Home,4,1211.93,Mumbai,Net Banking
+10444,2025-02-12,C030,Kavya 30,T-Shirt,Fashion,3,907.57,Bangalore,Cash on Delivery
+10445,2025-09-11,C140,Priya 140,Smartwatch,Electronics,4,5062.66,Pune,Debit Card
+10446,2025-03-31,C009,Sanjay 9,Jacket,Fashion,3,2715.2,Kochi,Cash on Delivery
+10447,2026-08-26,C031,Meera 31,Calculator,Stationery,2,659.38,Bangalore,Debit Card
+10448,2025-07-31,C110,Pooja 110,Monitor,Electronics,2,12683.64,Kolkata,UPI
+10449,2025-06-22,C146,Sneha 146,Shoes,Fashion,3,3058.11,Bangalore,Debit Card
+10450,2026-06-11,C075,Arjun 75,Jeans,Fashion,3,1962.86,Pune,UPI
+10451,2025-10-11,C035,Divya 35,Calculator,Stationery,4,758.63,Mumbai,Credit Card
+10452,2025-09-11,C034,Sneha 34,Tablet,Electronics,2,18761.02,Pune,Cash on Delivery
+10453,2026-01-20,C126,Isha 126,Mouse,Electronics,3,820.45,Hyderabad,Cash on Delivery
+10454,2025-10-12,C020,Ananya 20,Wardrobe,Home,1,14708.55,Pune,Debit Card
+10455,2025-04-06,C117,Aditya 117,Sofa,Home,3,22360.6,Bangalore,Cash on Delivery
+10456,2026-02-12,C092,Kavya 92,Air Conditioner,Appliances,1,44483.69,Kolkata,Credit Card
+10457,2025-11-27,C110,Pooja 110,Refrigerator,Appliances,2,31966.18,Kolkata,Debit Card
+10458,2026-05-12,C087,Pooja 87,Table,Home,2,4559.53,Jaipur,Debit Card
+10459,2026-04-16,C013,Varun 13,Smartphone,Electronics,1,25630.9,Kochi,UPI
+10460,2025-01-01,C032,Kiran 32,Laptop Bag,Accessories,2,1778.86,Delhi,Cash on Delivery
+10461,2025-11-06,C052,Isha 52,Pen Set,Stationery,2,161.46,Delhi,Credit Card
+10462,2026-01-16,C071,Sanjay 71,Headphones,Electronics,3,2375.19,Chennai,Credit Card
+10463,2025-08-28,C014,Rohan 14,Handbag,Fashion,3,2612.99,Hyderabad,Cash on Delivery
+10464,2026-05-04,C024,Ananya 24,Pen Set,Stationery,1,135.03,Kolkata,UPI
+10465,2026-04-01,C034,Sneha 34,Lamp,Home,2,1204.67,Pune,UPI
+10466,2026-03-09,C003,Meera 3,Pen Set,Stationery,3,159.51,Chennai,Credit Card
+10467,2025-04-15,C123,Meera 123,Headphones,Electronics,2,2441.53,Bangalore,UPI
+10468,2025-05-17,C081,Kavya 81,Shoes,Fashion,3,2782.28,Mumbai,Credit Card
+10469,2025-06-18,C018,Aditya 18,Chair,Home,1,2555.16,Bangalore,Cash on Delivery
+10470,2025-06-05,C090,Neha 90,Backpack,Stationery,2,1230.74,Mumbai,Cash on Delivery
+10471,2025-04-13,C114,Neha 114,Air Conditioner,Appliances,2,38528.18,Ahmedabad,Credit Card
+10472,2026-03-16,C032,Kiran 32,Lamp,Home,4,1164.37,Delhi,Debit Card
+10473,2025-09-12,C036,Rohan 36,Tablet,Electronics,3,18520.63,Bangalore,Net Banking
+10474,2025-11-05,C073,Kavya 73,Calculator,Stationery,1,748.7,Jaipur,Credit Card
+10475,2025-10-30,C133,Kiran 133,Bed,Home,2,18892.24,Delhi,UPI
+10476,2026-05-27,C062,Kiran 62,Sofa,Home,4,20296.07,Kochi,Net Banking
+10477,2025-11-21,C019,Rahul 19,Chair,Home,1,2743.44,Kolkata,Credit Card
+10478,2025-06-26,C100,Meera 100,Air Conditioner,Appliances,4,40869.46,Hyderabad,Cash on Delivery
+10479,2025-08-09,C019,Rahul 19,Laptop,Electronics,1,49651.73,Kolkata,UPI
+10480,2026-05-29,C016,Aditya 16,Coffee Maker,Appliances,4,6508.59,Delhi,Cash on Delivery
+10481,2026-07-04,C109,Pooja 109,Pen Set,Stationery,4,137.47,Mumbai,Net Banking
+10482,2026-06-08,C040,Kiran 40,T-Shirt,Fashion,1,865.78,Delhi,Credit Card
+10483,2025-03-09,C040,Kiran 40,Table,Home,3,4401.66,Delhi,Debit Card
+10484,2025-03-30,C112,Ananya 112,Backpack,Stationery,2,1093.9,Kolkata,Cash on Delivery
+10485,2025-06-29,C030,Kavya 30,Jacket,Fashion,1,2693.2,Bangalore,UPI
+10486,2025-06-17,C004,Ananya 4,Pen Set,Stationery,2,156.04,Jaipur,Cash on Delivery
+10487,2025-05-10,C089,Sanjay 89,Chair,Home,3,2333.48,Kochi,Debit Card
+10488,2026-03-16,C031,Meera 31,Calculator,Stationery,1,676.9,Bangalore,Debit Card
+10489,2026-08-14,C135,Neha 135,Headphones,Electronics,3,2606.16,Jaipur,UPI
+10490,2026-08-04,C128,Sneha 128,Jacket,Fashion,3,2551.05,Kolkata,Credit Card
+10491,2026-08-11,C095,Ananya 95,Monitor,Electronics,3,12655.99,Mumbai,UPI
+10492,2025-01-13,C059,Arjun 59,Backpack,Stationery,1,1090.57,Chennai,Credit Card
+10493,2025-06-03,C012,Neha 12,Sofa,Home,3,21485.11,Mumbai,Credit Card
+10494,2025-09-12,C010,Aarav 10,Table,Home,4,4252.06,Jaipur,Cash on Delivery
+10495,2025-05-03,C082,Priya 82,T-Shirt,Fashion,1,912.88,Mumbai,Net Banking
+10496,2025-02-17,C014,Rohan 14,Monitor,Electronics,2,12730.41,Hyderabad,Cash on Delivery
+10497,2025-11-15,C018,Aditya 18,Microwave,Appliances,4,12878.48,Bangalore,Debit Card
+10498,2025-07-25,C023,Varun 23,Table,Home,4,4057.17,Jaipur,Debit Card
+10499,2025-09-06,C145,Sanjay 145,Coffee Maker,Appliances,3,6811.45,Bangalore,Cash on Delivery
+10500,2025-07-20,C095,Ananya 95,Lamp,Home,4,1319.47,Mumbai,Net Banking
+10501,2025-01-25,C063,Varun 63,Mouse,Electronics,1,869.18,Jaipur,Credit Card
+10502,2025-01-02,C139,Nikhil 139,Shoes,Fashion,1,3270.59,Jaipur,Cash on Delivery
+10503,2025-09-01,C079,Pooja 79,Keyboard,Electronics,2,1508.94,Hyderabad,Cash on Delivery
+10504,2025-04-06,C126,Isha 126,Smartphone,Electronics,2,26058.26,Hyderabad,UPI
+10505,2026-01-17,C060,Neha 60,Microwave,Appliances,4,12482.03,Kochi,Cash on Delivery
+10506,2026-02-08,C022,Rohan 22,Lamp,Home,1,1201.3,Hyderabad,UPI
+10507,2025-05-14,C146,Sneha 146,Smartphone,Electronics,4,25812.22,Bangalore,Credit Card
+10508,2026-02-07,C075,Arjun 75,T-Shirt,Fashion,3,976.69,Pune,Debit Card
+10509,2025-07-27,C082,Priya 82,Jacket,Fashion,3,2650.82,Mumbai,Credit Card
+10510,2026-04-06,C150,Meera 150,Keyboard,Electronics,2,1381.7,Kochi,Cash on Delivery
+10511,2025-08-01,C081,Kavya 81,Saree,Fashion,1,3525.15,Mumbai,Cash on Delivery
+10512,2025-04-03,C079,Pooja 79,Jacket,Fashion,3,2997.39,Hyderabad,Credit Card
+10513,2025-12-02,C078,Aisha 78,Refrigerator,Appliances,1,30176.13,Pune,Credit Card
+10514,2026-02-10,C024,Ananya 24,Pen Set,Stationery,2,164.05,Kolkata,Net Banking
+10515,2025-06-28,C013,Varun 13,Notebook,Stationery,3,190.41,Kochi,UPI
+10516,2026-07-18,C104,Rahul 104,Air Conditioner,Appliances,4,42470.01,Jaipur,Credit Card
+10517,2025-05-24,C025,Rahul 25,Jacket,Fashion,1,2970.18,Jaipur,UPI
+10518,2026-02-15,C004,Ananya 4,Smartphone,Electronics,2,23153.58,Jaipur,Debit Card
+10519,2025-03-18,C022,Rohan 22,Lamp,Home,3,1300.18,Hyderabad,UPI
+10520,2025-04-05,C017,Arjun 17,Smartwatch,Electronics,4,5840.23,Mumbai,Debit Card
+10521,2026-08-11,C032,Kiran 32,Smartphone,Electronics,4,22753.19,Delhi,Cash on Delivery
+10522,2026-03-13,C102,Meera 102,Sofa,Home,1,21484.01,Bangalore,Credit Card
+10523,2026-04-02,C091,Isha 91,Smartwatch,Electronics,2,5252.48,Mumbai,Credit Card
+10524,2026-05-26,C009,Sanjay 9,Bed,Home,2,18530.2,Kochi,Cash on Delivery
+10525,2026-01-28,C141,Priya 141,Sofa,Home,1,20185.97,Hyderabad,Credit Card
+10526,2026-07-11,C108,Nikhil 108,Smartwatch,Electronics,2,5643.83,Kochi,UPI
+10527,2026-05-12,C098,Nikhil 98,Coffee Maker,Appliances,3,6473.59,Jaipur,Debit Card
+10528,2025-07-04,C145,Sanjay 145,Chair,Home,3,2444.19,Bangalore,UPI
+10529,2025-10-15,C082,Priya 82,Bed,Home,2,16305.49,Mumbai,UPI
+10530,2025-08-27,C121,Neha 121,Chair,Home,3,2633.42,Chennai,Credit Card
+10531,2025-02-27,C026,Kavya 26,Tablet,Electronics,2,17159.5,Kochi,Credit Card
+10532,2025-06-27,C148,Meera 148,Air Conditioner,Appliances,4,40780.36,Kolkata,Credit Card
+10533,2026-01-03,C061,Rahul 61,Lamp,Home,3,1273.49,Kolkata,Net Banking
+10534,2026-08-01,C008,Vikram 8,Pen Set,Stationery,3,163.43,Mumbai,Credit Card
+10535,2025-06-29,C145,Sanjay 145,Smartwatch,Electronics,4,5546.34,Bangalore,Cash on Delivery
+10536,2025-08-13,C010,Aarav 10,Headphones,Electronics,1,2366.31,Jaipur,UPI
+10537,2025-07-26,C135,Neha 135,Sofa,Home,1,21259.63,Jaipur,Credit Card
+10538,2025-11-28,C088,Sneha 88,Pen Set,Stationery,2,162.56,Delhi,UPI
+10539,2026-06-23,C006,Neha 6,Mouse,Electronics,2,843.9,Hyderabad,Debit Card
+10540,2025-12-11,C019,Rahul 19,Shoes,Fashion,4,3051.61,Kolkata,Debit Card
+10541,2026-03-24,C083,Nikhil 83,Mouse,Electronics,2,837.18,Bangalore,Cash on Delivery
+10542,2026-08-27,C082,Priya 82,Monitor,Electronics,3,11335.77,Mumbai,Credit Card
+10543,2025-01-02,C097,Aditya 97,Jeans,Fashion,3,1665.85,Hyderabad,Net Banking
+10544,2025-11-22,C101,Rahul 101,Air Conditioner,Appliances,1,39329.49,Hyderabad,Net Banking
+10545,2025-05-25,C057,Pooja 57,Wardrobe,Home,1,16310.06,Bangalore,Debit Card
+10546,2025-06-21,C020,Ananya 20,Tablet,Electronics,3,19736.57,Pune,UPI
+10547,2025-09-13,C086,Arjun 86,Jacket,Fashion,1,2668.52,Chennai,UPI
+10548,2025-02-19,C090,Neha 90,T-Shirt,Fashion,1,939.67,Mumbai,Cash on Delivery
+10549,2026-02-28,C113,Divya 113,Backpack,Stationery,4,1312.58,Kolkata,Cash on Delivery
+10550,2026-05-06,C097,Aditya 97,Shoes,Fashion,4,2760.86,Hyderabad,Net Banking
+10551,2025-02-04,C058,Priya 58,Monitor,Electronics,4,10976.9,Bangalore,Debit Card
+10552,2025-03-17,C006,Neha 6,Dress,Fashion,3,2398.73,Hyderabad,Debit Card
+10553,2025-03-18,C044,Aditya 44,Microwave,Appliances,4,11186.17,Kolkata,Net Banking
+10554,2026-03-18,C024,Ananya 24,Dress,Fashion,4,2289.98,Kolkata,Credit Card
+10555,2025-07-30,C112,Ananya 112,Monitor,Electronics,1,11043.02,Kolkata,Credit Card
+10556,2025-11-01,C105,Meera 105,Pen Set,Stationery,3,154.82,Delhi,Credit Card
+10557,2026-05-18,C025,Rahul 25,Smartphone,Electronics,4,25358.85,Jaipur,Credit Card
+10558,2025-10-29,C014,Rohan 14,Shoes,Fashion,1,2956.56,Hyderabad,Net Banking
+10559,2025-06-24,C123,Meera 123,Smartwatch,Electronics,1,4978.31,Bangalore,Debit Card
+10560,2026-02-12,C021,Divya 21,Sofa,Home,1,21156.75,Kochi,Cash on Delivery
+10561,2026-07-12,C126,Isha 126,Microwave,Appliances,3,11018.73,Hyderabad,Cash on Delivery
+10562,2026-04-02,C048,Pooja 48,Shoes,Fashion,4,2921.64,Kolkata,UPI
+10563,2025-10-03,C068,Kavya 68,Jacket,Fashion,4,2667.5,Kolkata,Net Banking
+10564,2025-12-19,C016,Aditya 16,Mouse,Electronics,1,733.71,Delhi,Net Banking
+10565,2026-02-01,C106,Pooja 106,Calculator,Stationery,2,707.5,Mumbai,Net Banking
+10566,2025-08-30,C108,Nikhil 108,Table,Home,4,4565.44,Kochi,Cash on Delivery
+10567,2025-02-05,C077,Sanjay 77,Headphones,Electronics,4,2701.39,Hyderabad,Net Banking
+10568,2026-04-05,C147,Aisha 147,Microwave,Appliances,2,11088.68,Bangalore,Credit Card
+10569,2026-03-10,C043,Meera 43,Smartwatch,Electronics,2,5088.8,Hyderabad,UPI
+10570,2025-09-22,C112,Ananya 112,Smartwatch,Electronics,2,5867.52,Kolkata,Debit Card
+10571,2026-07-20,C018,Aditya 18,Headphones,Electronics,4,2528.18,Bangalore,Debit Card
+10572,2025-01-13,C071,Sanjay 71,Chair,Home,4,2708.58,Chennai,Net Banking
+10573,2025-06-03,C134,Varun 134,Coffee Maker,Appliances,4,5996.27,Delhi,Credit Card
+10574,2026-07-31,C146,Sneha 146,Lamp,Home,1,1301.98,Bangalore,UPI
+10575,2025-09-28,C074,Aisha 74,Air Conditioner,Appliances,3,45174.31,Mumbai,Cash on Delivery
+10576,2025-10-10,C125,Ananya 125,Lamp,Home,4,1088.99,Hyderabad,Cash on Delivery
+10577,2025-12-06,C037,Aisha 37,Bed,Home,4,16339.62,Chennai,Credit Card
+10578,2026-01-17,C013,Varun 13,Backpack,Stationery,4,1301.0,Kochi,UPI
+10579,2026-05-19,C087,Pooja 87,Refrigerator,Appliances,3,30790.08,Jaipur,UPI
+10580,2026-03-30,C059,Arjun 59,Mouse,Electronics,3,875.88,Chennai,Debit Card
+10581,2025-04-02,C069,Sneha 69,Backpack,Stationery,4,1225.19,Ahmedabad,Credit Card
+10582,2026-06-13,C114,Neha 114,Smartwatch,Electronics,4,5765.04,Ahmedabad,Debit Card
+10583,2026-06-03,C015,Sneha 15,Chair,Home,2,2282.81,Kolkata,Cash on Delivery
+10584,2025-07-25,C035,Divya 35,Calculator,Stationery,1,654.32,Mumbai,UPI
+10585,2026-01-05,C064,Rohan 64,Smartphone,Electronics,4,22752.8,Jaipur,Credit Card
+10586,2025-05-07,C071,Sanjay 71,Shoes,Fashion,4,3003.08,Chennai,UPI
+10587,2025-07-01,C062,Kiran 62,Shoes,Fashion,4,3056.43,Kochi,Cash on Delivery
+10588,2025-09-22,C142,Nikhil 142,Shoes,Fashion,3,2798.11,Ahmedabad,UPI
+10589,2026-08-09,C073,Kavya 73,Laptop,Electronics,4,50046.16,Jaipur,Credit Card
+10590,2025-10-03,C057,Pooja 57,Wardrobe,Home,2,15533.09,Bangalore,Cash on Delivery
+10591,2025-05-16,C132,Kiran 132,Laptop,Electronics,1,54715.07,Hyderabad,Credit Card
+10592,2025-11-09,C003,Meera 3,Tablet,Electronics,3,18390.04,Chennai,Debit Card
+10593,2026-04-16,C109,Pooja 109,Microwave,Appliances,4,12843.81,Mumbai,Debit Card
+10594,2026-02-11,C056,Arjun 56,Jacket,Fashion,3,2899.23,Jaipur,Net Banking
+10595,2026-09-01,C027,Divya 27,Laptop,Electronics,3,55676.03,Kochi,Net Banking
+10596,2025-12-11,C073,Kavya 73,Jeans,Fashion,1,1793.43,Jaipur,Debit Card
+10597,2025-11-02,C084,Rahul 84,Air Conditioner,Appliances,3,39993.63,Ahmedabad,Credit Card
+10598,2026-02-18,C039,Sneha 39,Chair,Home,2,2699.84,Ahmedabad,Debit Card
+10599,2025-10-30,C036,Rohan 36,Backpack,Stationery,1,1237.3,Bangalore,Debit Card
+10600,2026-08-21,C108,Nikhil 108,Handbag,Fashion,4,2618.37,Kochi,Net Banking
+10601,2026-05-03,C049,Varun 49,Dress,Fashion,2,2281.98,Chennai,Debit Card
+10602,2026-07-26,C130,Vikram 130,Jeans,Fashion,2,1922.63,Kolkata,Credit Card
+10603,2025-09-22,C076,Sneha 76,Keyboard,Electronics,4,1388.38,Jaipur,Net Banking
+10604,2025-08-16,C047,Aditya 47,Notebook,Stationery,3,206.18,Mumbai,Debit Card
+10605,2025-12-06,C058,Priya 58,Backpack,Stationery,3,1180.91,Bangalore,Debit Card
+10606,2025-05-01,C067,Aditya 67,Lamp,Home,3,1191.3,Bangalore,Cash on Delivery
+10607,2025-07-19,C014,Rohan 14,Air Conditioner,Appliances,1,41766.65,Hyderabad,Net Banking
+10608,2026-02-28,C031,Meera 31,Air Conditioner,Appliances,4,42250.64,Bangalore,UPI
+10609,2026-08-07,C039,Sneha 39,Mouse,Electronics,2,774.83,Ahmedabad,Cash on Delivery
+10610,2026-05-15,C037,Aisha 37,Dress,Fashion,2,2322.73,Chennai,Debit Card
+10611,2025-10-08,C046,Vikram 46,Dress,Fashion,1,1982.07,Kochi,Credit Card
+10612,2025-04-01,C044,Aditya 44,Lamp,Home,2,1197.5,Kolkata,Credit Card
+10613,2026-05-04,C112,Ananya 112,Wardrobe,Home,4,14710.18,Kolkata,Cash on Delivery
+10614,2025-01-15,C002,Rohan 2,Smartphone,Electronics,2,26153.3,Mumbai,Debit Card
+10615,2025-09-12,C136,Pooja 136,Smartwatch,Electronics,1,5694.42,Chennai,Credit Card
+10616,2026-05-31,C089,Sanjay 89,Jeans,Fashion,2,1656.97,Kochi,Net Banking
+10617,2025-11-02,C079,Pooja 79,Monitor,Electronics,1,12777.23,Hyderabad,Debit Card
+10618,2025-05-18,C117,Aditya 117,Backpack,Stationery,3,1184.08,Bangalore,Debit Card
+10619,2026-02-18,C126,Isha 126,Shoes,Fashion,2,2798.93,Hyderabad,UPI
+10620,2025-01-23,C059,Arjun 59,Tablet,Electronics,2,16960.28,Chennai,Net Banking
+10621,2025-02-08,C130,Vikram 130,Monitor,Electronics,1,11679.82,Kolkata,Cash on Delivery
+10622,2025-02-19,C066,Isha 66,Calculator,Stationery,1,713.15,Delhi,UPI
+10623,2026-01-25,C006,Neha 6,Smartphone,Electronics,1,24583.88,Hyderabad,UPI
+10624,2025-07-30,C141,Priya 141,T-Shirt,Fashion,4,936.34,Hyderabad,UPI
+10625,2025-10-04,C078,Aisha 78,Saree,Fashion,1,3613.74,Pune,Net Banking
+10626,2025-05-01,C036,Rohan 36,Saree,Fashion,1,3508.11,Bangalore,Debit Card
+10627,2025-07-24,C030,Kavya 30,Coffee Maker,Appliances,1,6497.06,Bangalore,Debit Card
+10628,2025-10-30,C134,Varun 134,Smartwatch,Electronics,3,5723.78,Delhi,Credit Card
+10629,2026-05-08,C011,Vikram 11,Table,Home,4,4869.32,Jaipur,Debit Card
+10630,2025-04-24,C061,Rahul 61,Laptop,Electronics,1,56887.96,Kolkata,Net Banking
+10631,2025-03-18,C127,Rahul 127,Mouse,Electronics,1,844.72,Mumbai,UPI
+10632,2025-10-31,C066,Isha 66,Wardrobe,Home,2,14870.25,Delhi,Debit Card
+10633,2025-02-10,C119,Vikram 119,Smartphone,Electronics,1,26565.89,Jaipur,Debit Card
+10634,2025-04-29,C093,Divya 93,Coffee Maker,Appliances,3,6403.79,Ahmedabad,UPI
+10635,2025-06-24,C012,Neha 12,Laptop,Electronics,2,56796.91,Mumbai,Debit Card
+10636,2025-10-02,C092,Kavya 92,Microwave,Appliances,4,13092.21,Kolkata,UPI
+10637,2026-02-15,C096,Meera 96,Refrigerator,Appliances,3,29970.36,Bangalore,Cash on Delivery
+10638,2026-05-05,C117,Aditya 117,T-Shirt,Fashion,4,934.18,Bangalore,Cash on Delivery
+10639,2025-03-02,C043,Meera 43,Keyboard,Electronics,2,1558.85,Hyderabad,Credit Card
+10640,2026-03-25,C027,Divya 27,Saree,Fashion,4,3711.59,Kochi,Credit Card
+10641,2025-05-14,C098,Nikhil 98,Calculator,Stationery,3,715.59,Jaipur,Cash on Delivery
+10642,2025-03-06,C125,Ananya 125,Keyboard,Electronics,4,1482.21,Hyderabad,Debit Card
+10643,2025-12-13,C081,Kavya 81,Laptop,Electronics,2,60256.85,Mumbai,Net Banking
+10644,2025-09-12,C134,Varun 134,Pen Set,Stationery,1,147.99,Delhi,Cash on Delivery
+10645,2026-07-26,C089,Sanjay 89,Notebook,Stationery,4,185.95,Kochi,Net Banking
+10646,2026-04-26,C014,Rohan 14,Laptop,Electronics,2,55061.24,Hyderabad,Cash on Delivery
+10647,2025-12-05,C043,Meera 43,Headphones,Electronics,4,2410.32,Hyderabad,Debit Card
+10648,2026-01-23,C013,Varun 13,Chair,Home,2,2525.25,Kochi,Cash on Delivery
+10649,2026-08-10,C061,Rahul 61,Headphones,Electronics,4,2472.09,Kolkata,Cash on Delivery
+10650,2025-05-02,C023,Varun 23,Air Conditioner,Appliances,4,41555.37,Jaipur,Cash on Delivery
+10651,2026-07-25,C005,Rahul 5,Keyboard,Electronics,4,1473.7,Kochi,Net Banking
+10652,2025-11-08,C001,Ananya 1,Refrigerator,Appliances,1,33867.41,Hyderabad,Net Banking
+10653,2026-01-08,C144,Sneha 144,Smartwatch,Electronics,4,5995.39,Hyderabad,UPI
+10654,2026-04-30,C058,Priya 58,Air Conditioner,Appliances,4,40588.57,Bangalore,Debit Card
+10655,2025-08-16,C116,Priya 116,Keyboard,Electronics,1,1577.8,Kolkata,UPI
+10656,2026-01-18,C088,Sneha 88,Shoes,Fashion,3,3028.61,Delhi,UPI
+10657,2026-02-24,C012,Neha 12,Microwave,Appliances,2,11981.81,Mumbai,UPI
+10658,2026-02-07,C066,Isha 66,Bed,Home,2,16875.16,Delhi,Credit Card
+10659,2025-04-21,C118,Meera 118,Refrigerator,Appliances,2,33387.44,Mumbai,Cash on Delivery
+10660,2026-04-07,C012,Neha 12,Laptop Bag,Accessories,1,1897.97,Mumbai,Cash on Delivery
+10661,2025-02-19,C130,Vikram 130,Mouse,Electronics,4,720.69,Kolkata,Net Banking
+10662,2025-07-01,C111,Vikram 111,Refrigerator,Appliances,4,34715.97,Bangalore,Net Banking
+10663,2025-11-26,C045,Rohan 45,Backpack,Stationery,2,1104.85,Bangalore,Net Banking
+10664,2025-12-18,C099,Meera 99,Saree,Fashion,2,3341.52,Kochi,Debit Card
+10665,2026-06-09,C116,Priya 116,Coffee Maker,Appliances,2,6029.63,Kolkata,Debit Card
+10666,2026-07-21,C141,Priya 141,Air Conditioner,Appliances,3,43779.74,Hyderabad,Credit Card
+10667,2025-05-16,C052,Isha 52,Smartwatch,Electronics,3,5705.27,Delhi,Credit Card
+10668,2025-12-27,C129,Pooja 129,Table,Home,3,4689.32,Ahmedabad,Net Banking
+10669,2026-07-01,C123,Meera 123,Lamp,Home,4,1241.82,Bangalore,Debit Card
+10670,2025-01-26,C109,Pooja 109,Coffee Maker,Appliances,1,6529.55,Mumbai,Cash on Delivery
+10671,2025-06-14,C038,Isha 38,Smartphone,Electronics,1,23499.51,Mumbai,Debit Card
+10672,2025-10-30,C065,Aarav 65,Mouse,Electronics,1,830.5,Bangalore,Credit Card
+10673,2025-04-15,C139,Nikhil 139,Smartphone,Electronics,3,26570.13,Jaipur,Net Banking
+10674,2026-07-29,C144,Sneha 144,Air Conditioner,Appliances,2,44036.27,Hyderabad,Cash on Delivery
+10675,2025-02-18,C061,Rahul 61,Chair,Home,3,2596.47,Kolkata,Cash on Delivery
+10676,2025-02-25,C100,Meera 100,Saree,Fashion,3,3826.08,Hyderabad,UPI
+10677,2026-01-12,C065,Aarav 65,Smartwatch,Electronics,4,5862.98,Bangalore,Net Banking
+10678,2025-07-18,C140,Priya 140,Backpack,Stationery,2,1266.28,Pune,Debit Card
+10679,2025-06-27,C115,Priya 115,Monitor,Electronics,1,11248.74,Bangalore,Net Banking
+10680,2026-07-24,C031,Meera 31,Handbag,Fashion,1,2464.25,Bangalore,Debit Card
+10681,2026-04-23,C034,Sneha 34,Monitor,Electronics,3,10813.55,Pune,Credit Card
+10682,2025-11-05,C011,Vikram 11,Mouse,Electronics,3,815.5,Jaipur,Cash on Delivery
+10683,2025-11-22,C147,Aisha 147,Table,Home,3,4115.59,Bangalore,Net Banking
+10684,2025-06-13,C057,Pooja 57,Monitor,Electronics,1,12687.02,Bangalore,Cash on Delivery
+10685,2025-08-15,C140,Priya 140,Table,Home,4,4132.75,Pune,Credit Card
+10686,2026-06-28,C085,Rahul 85,Dress,Fashion,3,2109.17,Jaipur,Cash on Delivery
+10687,2025-12-21,C144,Sneha 144,Refrigerator,Appliances,1,29534.22,Hyderabad,Cash on Delivery
+10688,2025-11-25,C062,Kiran 62,Microwave,Appliances,2,13101.35,Kochi,Cash on Delivery
+10689,2025-10-17,C030,Kavya 30,Handbag,Fashion,3,2520.12,Bangalore,UPI
+10690,2026-06-05,C133,Kiran 133,Refrigerator,Appliances,3,32091.58,Delhi,Cash on Delivery
+10691,2025-07-17,C125,Ananya 125,Smartphone,Electronics,3,26991.41,Hyderabad,Debit Card
+10692,2026-07-05,C132,Kiran 132,Headphones,Electronics,1,2333.7,Hyderabad,Net Banking
+10693,2025-08-07,C002,Rohan 2,Wardrobe,Home,1,14132.34,Mumbai,Cash on Delivery
+10694,2025-03-15,C027,Divya 27,Smartwatch,Electronics,4,5661.22,Kochi,Credit Card
+10695,2025-03-17,C007,Aarav 7,Jacket,Fashion,3,2541.22,Bangalore,UPI
+10696,2026-08-12,C046,Vikram 46,Coffee Maker,Appliances,3,6575.51,Kochi,Credit Card
+10697,2026-02-19,C067,Aditya 67,Saree,Fashion,4,3465.79,Bangalore,Cash on Delivery
+10698,2026-07-02,C081,Kavya 81,Laptop,Electronics,4,56906.29,Mumbai,UPI
+10699,2025-03-16,C017,Arjun 17,Calculator,Stationery,1,728.12,Mumbai,Debit Card
+10700,2025-11-05,C129,Pooja 129,Keyboard,Electronics,3,1586.07,Ahmedabad,Net Banking
+10701,2025-02-01,C023,Varun 23,Jeans,Fashion,4,1757.31,Jaipur,Cash on Delivery
+10702,2026-02-05,C041,Isha 41,Table,Home,2,4172.74,Mumbai,Net Banking
+10703,2026-01-18,C076,Sneha 76,Wardrobe,Home,2,14394.17,Jaipur,UPI
+10704,2025-01-06,C142,Nikhil 142,Air Conditioner,Appliances,2,38835.18,Ahmedabad,Net Banking
+10705,2025-12-19,C101,Rahul 101,Table,Home,1,4324.22,Hyderabad,Credit Card
+10706,2025-08-15,C106,Pooja 106,Microwave,Appliances,2,11186.29,Mumbai,Net Banking
+10707,2026-08-04,C065,Aarav 65,Smartwatch,Electronics,1,5149.49,Bangalore,UPI
+10708,2025-03-10,C141,Priya 141,Jacket,Fashion,1,2682.77,Hyderabad,Debit Card
+10709,2026-01-01,C026,Kavya 26,Smartwatch,Electronics,4,5996.69,Kochi,Credit Card
+10710,2025-07-18,C061,Rahul 61,Keyboard,Electronics,3,1535.85,Kolkata,Debit Card
+10711,2025-11-10,C125,Ananya 125,Jacket,Fashion,3,2865.15,Hyderabad,Net Banking
+10712,2026-03-15,C040,Kiran 40,Lamp,Home,3,1273.85,Delhi,Credit Card
+10713,2026-03-23,C002,Rohan 2,Dress,Fashion,2,2325.69,Mumbai,Debit Card
+10714,2026-04-19,C093,Divya 93,Mouse,Electronics,3,860.46,Ahmedabad,Cash on Delivery
+10715,2025-04-22,C092,Kavya 92,Calculator,Stationery,3,698.18,Kolkata,Credit Card
+10716,2025-05-24,C021,Divya 21,Refrigerator,Appliances,3,34295.77,Kochi,Net Banking
+10717,2025-01-20,C051,Meera 51,T-Shirt,Fashion,1,940.94,Jaipur,Net Banking
+10718,2025-08-06,C008,Vikram 8,Refrigerator,Appliances,4,33722.88,Mumbai,UPI
+10719,2025-06-02,C142,Nikhil 142,T-Shirt,Fashion,4,927.7,Ahmedabad,Debit Card
+10720,2026-05-29,C101,Rahul 101,Tablet,Electronics,3,16681.97,Hyderabad,Net Banking
+10721,2025-09-02,C024,Ananya 24,Handbag,Fashion,3,2501.08,Kolkata,Net Banking
+10722,2025-07-03,C043,Meera 43,Calculator,Stationery,2,692.47,Hyderabad,Net Banking
+10723,2026-05-11,C145,Sanjay 145,Notebook,Stationery,2,209.44,Bangalore,Debit Card
+10724,2025-09-28,C011,Vikram 11,Tablet,Electronics,4,17034.3,Jaipur,Debit Card
+10725,2026-01-05,C060,Neha 60,Smartphone,Electronics,2,25089.43,Kochi,Cash on Delivery
+10726,2025-02-10,C121,Neha 121,Laptop Bag,Accessories,4,1937.36,Chennai,Debit Card
+10727,2025-09-27,C027,Divya 27,Pen Set,Stationery,3,160.05,Kochi,Net Banking
+10728,2026-01-23,C140,Priya 140,Lamp,Home,2,1170.4,Pune,Debit Card
+10729,2025-08-17,C020,Ananya 20,Chair,Home,3,2438.16,Pune,Net Banking
+10730,2026-05-09,C104,Rahul 104,Shoes,Fashion,3,2992.12,Jaipur,Net Banking
+10731,2025-08-24,C002,Rohan 2,Chair,Home,2,2469.95,Mumbai,UPI
+10732,2025-07-11,C132,Kiran 132,Wardrobe,Home,3,14134.55,Hyderabad,Credit Card
+10733,2026-03-01,C093,Divya 93,Bed,Home,1,18579.99,Ahmedabad,Debit Card
+10734,2026-08-28,C030,Kavya 30,Sofa,Home,4,21907.69,Bangalore,Credit Card
+10735,2026-08-11,C106,Pooja 106,Laptop,Electronics,2,49974.59,Mumbai,Net Banking
+10736,2025-05-31,C042,Aditya 42,Mouse,Electronics,1,862.53,Hyderabad,UPI
+10737,2026-02-20,C043,Meera 43,T-Shirt,Fashion,2,903.0,Hyderabad,Net Banking
+10738,2025-10-18,C145,Sanjay 145,Wardrobe,Home,1,16135.53,Bangalore,UPI
+10739,2025-06-24,C056,Arjun 56,Jacket,Fashion,4,3005.69,Jaipur,Credit Card
+10740,2025-07-06,C106,Pooja 106,Bed,Home,2,19060.62,Mumbai,Net Banking
+10741,2025-12-17,C131,Priya 131,T-Shirt,Fashion,2,940.35,Chennai,Cash on Delivery
+10742,2025-04-22,C018,Aditya 18,Tablet,Electronics,4,17587.66,Bangalore,UPI
+10743,2025-04-09,C052,Isha 52,Chair,Home,4,2663.26,Delhi,Credit Card
+10744,2026-06-29,C122,Rohan 122,Microwave,Appliances,1,12906.61,Ahmedabad,Net Banking
+10745,2026-07-07,C031,Meera 31,Headphones,Electronics,4,2579.7,Bangalore,UPI
+10746,2025-02-14,C111,Vikram 111,Chair,Home,4,2435.19,Bangalore,Net Banking
+10747,2026-01-26,C110,Pooja 110,Tablet,Electronics,4,19042.4,Kolkata,Debit Card
+10748,2026-05-04,C148,Meera 148,Keyboard,Electronics,4,1390.16,Kolkata,Credit Card
+10749,2025-01-06,C022,Rohan 22,Jeans,Fashion,4,1712.81,Hyderabad,UPI
+10750,2026-01-20,C148,Meera 148,Chair,Home,1,2509.88,Kolkata,Credit Card
+10751,2026-03-13,C081,Kavya 81,Saree,Fashion,3,3224.61,Mumbai,Net Banking
+10752,2025-10-10,C065,Aarav 65,T-Shirt,Fashion,4,911.64,Bangalore,Cash on Delivery
+10753,2026-07-27,C053,Nikhil 53,Saree,Fashion,4,3275.1,Kolkata,Net Banking
+10754,2026-02-12,C124,Varun 124,T-Shirt,Fashion,3,913.98,Jaipur,Credit Card
+10755,2025-06-15,C031,Meera 31,Backpack,Stationery,2,1187.18,Bangalore,UPI
+10756,2026-07-18,C055,Divya 55,Chair,Home,4,2643.04,Mumbai,Net Banking
+10757,2025-01-06,C014,Rohan 14,Monitor,Electronics,4,13114.97,Hyderabad,UPI
+10758,2025-09-27,C038,Isha 38,Sofa,Home,4,20187.82,Mumbai,Credit Card
+10759,2026-02-15,C095,Ananya 95,Headphones,Electronics,1,2612.25,Mumbai,Net Banking
+10760,2025-06-29,C134,Varun 134,Jeans,Fashion,1,1960.46,Delhi,Cash on Delivery
+10761,2026-06-15,C113,Divya 113,Laptop,Electronics,2,58856.24,Kolkata,Debit Card
+10762,2025-02-06,C050,Rohan 50,Smartphone,Electronics,2,25575.95,Chennai,Debit Card
+10763,2025-03-30,C062,Kiran 62,Wardrobe,Home,1,16426.94,Kochi,Debit Card
+10764,2025-07-25,C103,Priya 103,Shoes,Fashion,4,2943.27,Pune,Net Banking
+10765,2026-07-17,C004,Ananya 4,Backpack,Stationery,1,1300.6,Jaipur,Debit Card
+10766,2025-10-11,C144,Sneha 144,Laptop Bag,Accessories,3,1745.09,Hyderabad,Credit Card
+10767,2025-09-25,C050,Rohan 50,Jacket,Fashion,4,2841.95,Chennai,Credit Card
+10768,2026-05-31,C105,Meera 105,Chair,Home,1,2529.32,Delhi,Debit Card
+10769,2026-08-12,C088,Sneha 88,Keyboard,Electronics,3,1612.83,Delhi,Debit Card
+10770,2025-12-14,C114,Neha 114,Handbag,Fashion,4,2634.98,Ahmedabad,Cash on Delivery
+10771,2025-09-22,C118,Meera 118,Microwave,Appliances,1,11956.73,Mumbai,UPI
+10772,2025-08-24,C098,Nikhil 98,Wardrobe,Home,2,15530.74,Jaipur,Debit Card
+10773,2025-09-27,C106,Pooja 106,Shoes,Fashion,1,3120.49,Mumbai,Credit Card
+10774,2025-12-17,C074,Aisha 74,Headphones,Electronics,4,2586.85,Mumbai,UPI
+10775,2025-12-29,C142,Nikhil 142,Laptop Bag,Accessories,2,1791.56,Ahmedabad,Credit Card
+10776,2025-07-14,C147,Aisha 147,T-Shirt,Fashion,2,980.48,Bangalore,Cash on Delivery
+10777,2025-07-31,C052,Isha 52,Tablet,Electronics,2,19341.87,Delhi,Credit Card
+10778,2025-12-31,C052,Isha 52,Refrigerator,Appliances,2,34152.54,Delhi,Credit Card
+10779,2026-05-20,C028,Vikram 28,Keyboard,Electronics,1,1552.74,Bangalore,Net Banking
+10780,2026-01-16,C002,Rohan 2,Calculator,Stationery,1,748.72,Mumbai,Net Banking
+10781,2026-06-08,C081,Kavya 81,Sofa,Home,3,21959.54,Mumbai,Debit Card
+10782,2026-03-10,C102,Meera 102,Tablet,Electronics,2,16394.93,Bangalore,Cash on Delivery
+10783,2025-06-28,C139,Nikhil 139,Smartphone,Electronics,3,24468.58,Jaipur,Cash on Delivery
+10784,2025-01-09,C031,Meera 31,Pen Set,Stationery,4,144.47,Bangalore,UPI
+10785,2025-09-23,C054,Nikhil 54,Handbag,Fashion,1,2412.72,Kolkata,Credit Card
+10786,2025-12-18,C141,Priya 141,T-Shirt,Fashion,2,858.49,Hyderabad,Debit Card
+10787,2026-01-17,C048,Pooja 48,Sofa,Home,4,20726.34,Kolkata,Debit Card
+10788,2025-05-15,C103,Priya 103,T-Shirt,Fashion,4,842.38,Pune,Net Banking
+10789,2025-08-30,C059,Arjun 59,Refrigerator,Appliances,1,33413.22,Chennai,Net Banking
+10790,2025-06-03,C111,Vikram 111,Air Conditioner,Appliances,4,39446.93,Bangalore,Cash on Delivery
+10791,2026-06-14,C003,Meera 3,Monitor,Electronics,4,11999.03,Chennai,Net Banking
+10792,2026-07-30,C081,Kavya 81,Coffee Maker,Appliances,4,6240.04,Mumbai,Net Banking
+10793,2025-03-03,C013,Varun 13,Handbag,Fashion,1,2595.27,Kochi,Credit Card
+10794,2025-12-09,C066,Isha 66,Sofa,Home,1,21779.36,Delhi,Debit Card
+10795,2026-02-26,C093,Divya 93,Shoes,Fashion,3,2906.48,Ahmedabad,UPI
+10796,2026-07-06,C090,Neha 90,Air Conditioner,Appliances,2,42645.57,Mumbai,Credit Card
+10797,2026-05-15,C073,Kavya 73,Shoes,Fashion,3,3103.92,Jaipur,Cash on Delivery
+10798,2025-05-29,C021,Divya 21,Handbag,Fashion,3,2481.88,Kochi,Credit Card
+10799,2025-03-15,C087,Pooja 87,Saree,Fashion,4,3744.23,Jaipur,UPI
+10800,2025-10-26,C042,Aditya 42,Dress,Fashion,2,2117.93,Hyderabad,Debit Card
+10801,2026-01-07,C102,Meera 102,T-Shirt,Fashion,4,950.58,Bangalore,Net Banking
+10802,2025-01-24,C134,Varun 134,Jacket,Fashion,4,2613.7,Delhi,Credit Card
+10803,2025-03-23,C061,Rahul 61,Notebook,Stationery,3,217.62,Kolkata,Credit Card
+10804,2026-04-30,C043,Meera 43,Handbag,Fashion,1,2297.78,Hyderabad,Net Banking
+10805,2025-03-27,C014,Rohan 14,Laptop,Electronics,4,55263.81,Hyderabad,UPI
+10806,2026-02-04,C068,Kavya 68,Bed,Home,2,16503.52,Kolkata,Debit Card
+10807,2025-05-10,C059,Arjun 59,Tablet,Electronics,3,17795.38,Chennai,Credit Card
+10808,2026-01-01,C135,Neha 135,Refrigerator,Appliances,2,28982.86,Jaipur,Debit Card
+10809,2025-05-19,C122,Rohan 122,Jacket,Fashion,3,2827.19,Ahmedabad,Net Banking
+10810,2026-08-01,C046,Vikram 46,Lamp,Home,4,1231.45,Kochi,Cash on Delivery
+10811,2026-05-09,C135,Neha 135,Wardrobe,Home,3,16226.77,Jaipur,Net Banking
+10812,2026-01-10,C059,Arjun 59,Coffee Maker,Appliances,1,6424.42,Chennai,Cash on Delivery
+10813,2026-06-20,C067,Aditya 67,Mouse,Electronics,3,721.69,Bangalore,Credit Card
+10814,2026-05-19,C089,Sanjay 89,Jeans,Fashion,4,1812.64,Kochi,Cash on Delivery
+10815,2025-08-25,C077,Sanjay 77,Laptop,Electronics,4,58277.61,Hyderabad,UPI
+10816,2026-07-29,C141,Priya 141,Shoes,Fashion,2,2947.04,Hyderabad,Cash on Delivery
+10817,2026-02-04,C102,Meera 102,Tablet,Electronics,2,18773.78,Bangalore,Cash on Delivery
+10818,2025-09-03,C057,Pooja 57,T-Shirt,Fashion,1,886.0,Bangalore,Net Banking
+10819,2025-03-12,C070,Aarav 70,Jeans,Fashion,3,1768.65,Delhi,Credit Card
+10820,2026-04-09,C035,Divya 35,Jeans,Fashion,1,1849.28,Mumbai,Debit Card
+10821,2025-02-20,C126,Isha 126,Smartwatch,Electronics,3,4971.33,Hyderabad,Net Banking
+10822,2025-05-09,C006,Neha 6,Monitor,Electronics,1,11477.07,Hyderabad,Cash on Delivery
+10823,2026-05-21,C003,Meera 3,Tablet,Electronics,1,16742.46,Chennai,Credit Card
+10824,2026-05-26,C088,Sneha 88,Saree,Fashion,3,3700.01,Delhi,Debit Card
+10825,2025-05-30,C119,Vikram 119,Pen Set,Stationery,1,144.91,Jaipur,UPI
+10826,2026-04-27,C069,Sneha 69,Calculator,Stationery,4,639.99,Ahmedabad,Credit Card
+10827,2025-01-13,C050,Rohan 50,Microwave,Appliances,3,12761.4,Chennai,UPI
+10828,2025-02-04,C064,Rohan 64,Handbag,Fashion,4,2373.58,Jaipur,Credit Card
+10829,2025-08-02,C118,Meera 118,Backpack,Stationery,1,1205.07,Mumbai,Cash on Delivery
+10830,2025-06-12,C100,Meera 100,Notebook,Stationery,3,217.45,Hyderabad,UPI
+10831,2025-11-02,C141,Priya 141,Chair,Home,1,2376.66,Hyderabad,Credit Card
+10832,2025-08-12,C093,Divya 93,Microwave,Appliances,1,12872.78,Ahmedabad,UPI
+10833,2025-06-21,C061,Rahul 61,Wardrobe,Home,4,14473.54,Kolkata,Debit Card
+10834,2025-01-10,C150,Meera 150,Keyboard,Electronics,4,1586.74,Kochi,UPI
+10835,2025-06-08,C149,Ananya 149,Coffee Maker,Appliances,4,6744.93,Kochi,Debit Card
+10836,2025-12-13,C023,Varun 23,Tablet,Electronics,2,17999.71,Jaipur,UPI
+10837,2025-04-20,C016,Aditya 16,Shoes,Fashion,2,3120.8,Delhi,Credit Card
+10838,2025-12-22,C125,Ananya 125,Tablet,Electronics,3,19734.03,Hyderabad,Cash on Delivery
+10839,2025-05-18,C050,Rohan 50,Laptop,Electronics,4,53439.84,Chennai,Debit Card
+10840,2026-07-10,C011,Vikram 11,Sofa,Home,4,22259.71,Jaipur,Cash on Delivery
+10841,2025-11-28,C049,Varun 49,Lamp,Home,2,1210.47,Chennai,Cash on Delivery
+10842,2025-06-08,C071,Sanjay 71,Air Conditioner,Appliances,2,38378.56,Chennai,Cash on Delivery
+10843,2026-04-10,C076,Sneha 76,Refrigerator,Appliances,3,32266.28,Jaipur,UPI
+10844,2026-01-08,C130,Vikram 130,Handbag,Fashion,2,2691.47,Kolkata,Net Banking
+10845,2026-07-06,C062,Kiran 62,Dress,Fashion,1,2269.65,Kochi,Cash on Delivery
+10846,2025-06-07,C049,Varun 49,Chair,Home,4,2632.87,Chennai,Net Banking
+10847,2025-04-24,C073,Kavya 73,Dress,Fashion,4,2262.0,Jaipur,UPI
+10848,2025-05-13,C134,Varun 134,Notebook,Stationery,1,181.75,Delhi,Credit Card
+10849,2025-04-12,C009,Sanjay 9,Smartwatch,Electronics,1,5483.91,Kochi,UPI
+10850,2026-06-23,C147,Aisha 147,Wardrobe,Home,4,15473.76,Bangalore,Net Banking
+10851,2025-03-14,C066,Isha 66,Smartphone,Electronics,3,23603.61,Delhi,UPI
+10852,2025-03-23,C054,Nikhil 54,Wardrobe,Home,4,16285.21,Kolkata,Cash on Delivery
+10853,2025-03-01,C016,Aditya 16,Shoes,Fashion,4,3193.22,Delhi,Net Banking
+10854,2025-11-08,C069,Sneha 69,Chair,Home,1,2617.15,Ahmedabad,UPI
+10855,2025-08-25,C056,Arjun 56,Chair,Home,1,2300.61,Jaipur,Net Banking
+10856,2025-09-12,C099,Meera 99,Smartwatch,Electronics,2,5528.81,Kochi,Net Banking
+10857,2026-08-14,C046,Vikram 46,Table,Home,4,4721.5,Kochi,Debit Card
+10858,2025-06-20,C118,Meera 118,Pen Set,Stationery,4,161.48,Mumbai,Credit Card
+10859,2026-07-01,C141,Priya 141,Handbag,Fashion,3,2578.77,Hyderabad,Net Banking
+10860,2026-07-18,C114,Neha 114,Laptop Bag,Accessories,3,1944.89,Ahmedabad,Debit Card
+10861,2025-11-28,C096,Meera 96,Saree,Fashion,4,3728.31,Bangalore,Net Banking
+10862,2026-07-18,C062,Kiran 62,Lamp,Home,2,1170.02,Kochi,Debit Card
+10863,2025-01-01,C093,Divya 93,Jacket,Fashion,4,3057.5,Ahmedabad,UPI
+10864,2025-11-06,C073,Kavya 73,Bed,Home,1,18063.39,Jaipur,UPI
+10865,2025-01-23,C077,Sanjay 77,Tablet,Electronics,2,19280.59,Hyderabad,Debit Card
+10866,2026-04-17,C142,Nikhil 142,Chair,Home,2,2297.14,Ahmedabad,Debit Card
+10867,2026-08-20,C040,Kiran 40,Mouse,Electronics,3,778.73,Delhi,Credit Card
+10868,2026-02-14,C060,Neha 60,T-Shirt,Fashion,3,826.54,Kochi,Net Banking
+10869,2026-05-10,C056,Arjun 56,Backpack,Stationery,1,1253.66,Jaipur,Credit Card
+10870,2025-11-04,C125,Ananya 125,Refrigerator,Appliances,1,32609.48,Hyderabad,UPI
+10871,2025-12-09,C148,Meera 148,Handbag,Fashion,1,2640.06,Kolkata,Debit Card
+10872,2025-08-21,C112,Ananya 112,Saree,Fashion,1,3758.85,Kolkata,Net Banking
+10873,2026-06-21,C003,Meera 3,Wardrobe,Home,4,13662.38,Chennai,UPI
+10874,2025-08-15,C082,Priya 82,Table,Home,2,4344.15,Mumbai,Credit Card
+10875,2026-08-13,C013,Varun 13,Notebook,Stationery,4,218.84,Kochi,Net Banking
+10876,2026-02-08,C024,Ananya 24,Tablet,Electronics,4,17243.22,Kolkata,Credit Card
+10877,2025-02-20,C034,Sneha 34,Dress,Fashion,1,2189.38,Pune,Net Banking
+10878,2026-03-21,C103,Priya 103,T-Shirt,Fashion,1,881.73,Pune,Credit Card
+10879,2026-08-09,C035,Divya 35,Sofa,Home,2,21946.59,Mumbai,Credit Card
+10880,2025-09-30,C144,Sneha 144,Bed,Home,2,17072.33,Hyderabad,Cash on Delivery
+10881,2026-02-28,C083,Nikhil 83,Notebook,Stationery,1,184.5,Bangalore,Cash on Delivery
+10882,2026-09-01,C094,Sanjay 94,Shoes,Fashion,2,2892.44,Ahmedabad,UPI
+10883,2026-03-29,C079,Pooja 79,Monitor,Electronics,3,12278.93,Hyderabad,Net Banking
+10884,2025-08-28,C038,Isha 38,Jacket,Fashion,1,3037.56,Mumbai,Credit Card
+10885,2025-02-25,C096,Meera 96,Mouse,Electronics,1,737.98,Bangalore,Credit Card
+10886,2025-04-24,C038,Isha 38,Air Conditioner,Appliances,3,37915.36,Mumbai,Debit Card
+10887,2026-07-05,C116,Priya 116,Sofa,Home,1,21260.26,Kolkata,Credit Card
+10888,2025-05-25,C053,Nikhil 53,Table,Home,3,4543.92,Kolkata,UPI
+10889,2025-03-03,C097,Aditya 97,Lamp,Home,1,1141.31,Hyderabad,Debit Card
+10890,2025-01-09,C052,Isha 52,Coffee Maker,Appliances,3,5919.01,Delhi,UPI
+10891,2026-01-04,C100,Meera 100,Notebook,Stationery,3,206.52,Hyderabad,UPI
+10892,2026-01-25,C005,Rahul 5,Jeans,Fashion,4,1703.22,Kochi,Net Banking
+10893,2026-06-29,C026,Kavya 26,Microwave,Appliances,3,11963.19,Kochi,UPI
+10894,2025-01-23,C048,Pooja 48,Smartwatch,Electronics,4,5566.76,Kolkata,UPI
+10895,2026-02-07,C064,Rohan 64,Laptop Bag,Accessories,3,1740.09,Jaipur,Credit Card
+10896,2025-11-06,C005,Rahul 5,Shoes,Fashion,3,2913.23,Kochi,Credit Card
+10897,2026-02-01,C129,Pooja 129,T-Shirt,Fashion,1,922.64,Ahmedabad,UPI
+10898,2026-02-07,C143,Sanjay 143,T-Shirt,Fashion,2,837.31,Jaipur,Credit Card
+10899,2025-08-21,C023,Varun 23,Backpack,Stationery,4,1204.97,Jaipur,Cash on Delivery
+10900,2025-11-16,C062,Kiran 62,Lamp,Home,2,1182.35,Kochi,Net Banking
+10901,2025-05-22,C085,Rahul 85,Jacket,Fashion,2,2635.78,Jaipur,Net Banking
+10902,2025-11-13,C139,Nikhil 139,Notebook,Stationery,2,214.5,Jaipur,Net Banking
+10903,2026-08-02,C035,Divya 35,Saree,Fashion,2,3609.36,Mumbai,Credit Card
+10904,2025-05-30,C082,Priya 82,Headphones,Electronics,1,2342.07,Mumbai,UPI
+10905,2025-11-07,C082,Priya 82,Microwave,Appliances,4,13106.87,Mumbai,Cash on Delivery
+10906,2025-07-09,C071,Sanjay 71,Mouse,Electronics,2,737.08,Chennai,UPI
+10907,2025-08-25,C069,Sneha 69,Bed,Home,2,18346.9,Ahmedabad,UPI
+10908,2026-04-26,C092,Kavya 92,Headphones,Electronics,4,2317.04,Kolkata,Debit Card
+10909,2025-05-21,C048,Pooja 48,Air Conditioner,Appliances,4,41928.14,Kolkata,Credit Card
+10910,2025-01-16,C050,Rohan 50,Tablet,Electronics,1,17670.92,Chennai,Debit Card
+10911,2025-03-09,C106,Pooja 106,Tablet,Electronics,2,18928.0,Mumbai,Credit Card
+10912,2026-04-14,C113,Divya 113,Air Conditioner,Appliances,4,43578.05,Kolkata,Credit Card
+10913,2026-01-25,C110,Pooja 110,Handbag,Fashion,1,2553.96,Kolkata,Debit Card
+10914,2026-04-08,C101,Rahul 101,Bed,Home,1,18074.34,Hyderabad,Cash on Delivery
+10915,2026-02-10,C011,Vikram 11,Microwave,Appliances,2,12044.89,Jaipur,UPI
+10916,2026-03-27,C143,Sanjay 143,Handbag,Fashion,1,2344.93,Jaipur,Cash on Delivery
+10917,2026-03-09,C078,Aisha 78,Calculator,Stationery,3,694.59,Pune,Debit Card
+10918,2026-04-08,C014,Rohan 14,Pen Set,Stationery,2,148.91,Hyderabad,UPI
+10919,2026-07-14,C129,Pooja 129,Keyboard,Electronics,2,1583.62,Ahmedabad,Credit Card
+10920,2025-07-03,C101,Rahul 101,Saree,Fashion,3,3465.62,Hyderabad,Cash on Delivery
+10921,2025-11-28,C052,Isha 52,Microwave,Appliances,4,11016.43,Delhi,Credit Card
+10922,2026-01-07,C032,Kiran 32,Headphones,Electronics,1,2603.11,Delhi,UPI
+10923,2026-06-08,C135,Neha 135,Pen Set,Stationery,4,156.81,Jaipur,Net Banking
+10924,2025-06-24,C041,Isha 41,Handbag,Fashion,4,2271.95,Mumbai,Debit Card
+10925,2025-05-29,C145,Sanjay 145,Air Conditioner,Appliances,2,39161.84,Bangalore,Credit Card
+10926,2026-04-02,C014,Rohan 14,Saree,Fashion,3,3366.66,Hyderabad,Debit Card
+10927,2025-01-04,C047,Aditya 47,Keyboard,Electronics,2,1638.13,Mumbai,Net Banking
+10928,2026-05-26,C065,Aarav 65,Laptop,Electronics,4,54973.9,Bangalore,Net Banking
+10929,2026-08-26,C002,Rohan 2,Bed,Home,4,17056.36,Mumbai,Cash on Delivery
+10930,2025-01-07,C117,Aditya 117,Saree,Fashion,4,3205.58,Bangalore,Credit Card
+10931,2025-06-01,C141,Priya 141,T-Shirt,Fashion,2,818.81,Hyderabad,UPI
+10932,2026-08-15,C090,Neha 90,Smartphone,Electronics,2,26769.15,Mumbai,Net Banking
+10933,2026-03-03,C077,Sanjay 77,Dress,Fashion,1,2001.57,Hyderabad,Credit Card
+10934,2026-08-10,C042,Aditya 42,Notebook,Stationery,3,204.44,Hyderabad,Net Banking
+10935,2025-04-06,C046,Vikram 46,Jacket,Fashion,3,3041.63,Kochi,Debit Card
+10936,2026-03-14,C083,Nikhil 83,Shoes,Fashion,4,3192.16,Bangalore,Net Banking
+10937,2025-10-09,C017,Arjun 17,Jeans,Fashion,4,1668.44,Mumbai,Debit Card
+10938,2025-03-01,C135,Neha 135,Saree,Fashion,2,3637.08,Jaipur,UPI
+10939,2025-10-22,C147,Aisha 147,Backpack,Stationery,1,1196.08,Bangalore,Cash on Delivery
+10940,2026-07-31,C082,Priya 82,T-Shirt,Fashion,3,976.88,Mumbai,Cash on Delivery
+10941,2025-07-04,C134,Varun 134,Backpack,Stationery,4,1198.2,Delhi,Net Banking
+10942,2025-01-02,C060,Neha 60,Pen Set,Stationery,3,164.38,Kochi,UPI
+10943,2025-08-01,C007,Aarav 7,Jacket,Fashion,1,2932.98,Bangalore,Net Banking
+10944,2026-07-28,C107,Isha 107,Saree,Fashion,1,3383.65,Chennai,Credit Card
+10945,2025-09-18,C003,Meera 3,Wardrobe,Home,2,15570.05,Chennai,UPI
+10946,2025-04-27,C079,Pooja 79,Jeans,Fashion,3,1896.13,Hyderabad,Debit Card
+10947,2025-07-18,C088,Sneha 88,Handbag,Fashion,1,2666.02,Delhi,Debit Card
+10948,2025-02-06,C087,Pooja 87,Laptop Bag,Accessories,4,1949.82,Jaipur,Credit Card
+10949,2026-07-04,C124,Varun 124,Mouse,Electronics,4,862.73,Jaipur,Debit Card
+10950,2025-02-27,C119,Vikram 119,Coffee Maker,Appliances,4,7056.13,Jaipur,Net Banking
+10951,2025-01-20,C077,Sanjay 77,Lamp,Home,3,1213.24,Hyderabad,Credit Card
+10952,2025-12-29,C148,Meera 148,Notebook,Stationery,3,211.98,Kolkata,UPI
+10953,2026-01-20,C039,Sneha 39,T-Shirt,Fashion,1,871.05,Ahmedabad,Net Banking
+10954,2025-04-30,C043,Meera 43,Lamp,Home,4,1124.97,Hyderabad,Debit Card
+10955,2025-03-30,C081,Kavya 81,Pen Set,Stationery,1,143.14,Mumbai,Cash on Delivery
+10956,2025-11-06,C061,Rahul 61,Shoes,Fashion,4,3197.67,Kolkata,Credit Card
+10957,2025-02-08,C135,Neha 135,Jeans,Fashion,2,1660.4,Jaipur,Credit Card
+10958,2026-05-28,C024,Ananya 24,Jacket,Fashion,1,2967.45,Kolkata,Credit Card
+10959,2026-06-21,C049,Varun 49,Dress,Fashion,4,2302.27,Chennai,Debit Card
+10960,2026-06-13,C084,Rahul 84,Mouse,Electronics,1,851.54,Ahmedabad,Credit Card
+10961,2026-06-19,C053,Nikhil 53,Backpack,Stationery,1,1190.25,Kolkata,UPI
+10962,2026-09-01,C002,Rohan 2,Jeans,Fashion,1,1867.34,Mumbai,UPI
+10963,2025-11-16,C086,Arjun 86,Jacket,Fashion,1,2577.74,Chennai,UPI
+10964,2025-08-03,C148,Meera 148,Calculator,Stationery,3,719.44,Kolkata,Debit Card
+10965,2025-11-23,C052,Isha 52,Smartwatch,Electronics,3,5254.31,Delhi,Cash on Delivery
+10966,2025-04-28,C031,Meera 31,T-Shirt,Fashion,2,838.35,Bangalore,UPI
+10967,2025-12-25,C144,Sneha 144,Chair,Home,1,2353.29,Hyderabad,Net Banking
+10968,2025-10-18,C082,Priya 82,T-Shirt,Fashion,2,979.79,Mumbai,Net Banking
+10969,2025-12-13,C063,Varun 63,Monitor,Electronics,1,11547.31,Jaipur,Net Banking
+10970,2025-02-21,C114,Neha 114,Smartphone,Electronics,2,22644.96,Ahmedabad,UPI
+10971,2025-07-03,C099,Meera 99,Smartphone,Electronics,1,24632.33,Kochi,Net Banking
+10972,2025-07-22,C115,Priya 115,Bed,Home,3,17324.79,Bangalore,Net Banking
+10973,2025-04-06,C021,Divya 21,Laptop Bag,Accessories,4,1824.4,Kochi,Cash on Delivery
+10974,2026-04-22,C025,Rahul 25,Jacket,Fashion,3,2903.31,Jaipur,Cash on Delivery
+10975,2025-09-22,C060,Neha 60,Tablet,Electronics,2,19299.95,Kochi,Debit Card
+10976,2025-11-29,C101,Rahul 101,Monitor,Electronics,3,12693.07,Hyderabad,Cash on Delivery
+10977,2025-12-26,C125,Ananya 125,Laptop,Electronics,1,54728.68,Hyderabad,Cash on Delivery
+10978,2025-12-23,C119,Vikram 119,Air Conditioner,Appliances,2,40170.96,Jaipur,Net Banking
+10979,2025-04-20,C148,Meera 148,Mouse,Electronics,1,784.91,Kolkata,Debit Card
+10980,2026-06-30,C143,Sanjay 143,Wardrobe,Home,1,15877.29,Jaipur,Cash on Delivery
+10981,2025-09-07,C103,Priya 103,Lamp,Home,4,1137.26,Pune,Net Banking
+10982,2025-08-02,C041,Isha 41,Sofa,Home,4,20090.66,Mumbai,Net Banking
+10983,2025-12-17,C111,Vikram 111,Coffee Maker,Appliances,4,6587.37,Bangalore,Net Banking
+10984,2026-08-11,C061,Rahul 61,Monitor,Electronics,1,12574.48,Kolkata,Cash on Delivery
+10985,2025-04-10,C030,Kavya 30,Lamp,Home,4,1158.09,Bangalore,Cash on Delivery
+10986,2025-04-22,C046,Vikram 46,Jeans,Fashion,4,1645.06,Kochi,Net Banking
+10987,2025-03-04,C098,Nikhil 98,Dress,Fashion,4,2263.8,Jaipur,UPI
+10988,2025-01-01,C056,Arjun 56,Refrigerator,Appliances,2,34478.47,Jaipur,Credit Card
+10989,2026-08-15,C039,Sneha 39,Jacket,Fashion,3,2738.39,Ahmedabad,Cash on Delivery
+10990,2025-11-08,C051,Meera 51,Smartwatch,Electronics,3,5279.71,Jaipur,Cash on Delivery
+10991,2026-06-07,C089,Sanjay 89,Headphones,Electronics,1,2555.75,Kochi,Cash on Delivery
+10992,2026-07-17,C033,Varun 33,Air Conditioner,Appliances,3,38324.25,Pune,UPI
+10993,2025-10-16,C001,Ananya 1,Pen Set,Stationery,3,138.29,Hyderabad,UPI
+10994,2026-01-27,C061,Rahul 61,Saree,Fashion,4,3587.65,Kolkata,Cash on Delivery
+10995,2026-05-02,C098,Nikhil 98,Saree,Fashion,2,3613.74,Jaipur,Credit Card
+10996,2026-01-04,C049,Varun 49,Table,Home,4,4808.99,Chennai,Cash on Delivery
+10997,2025-03-15,C040,Kiran 40,Jeans,Fashion,2,1668.34,Delhi,UPI
+10998,2025-05-20,C037,Aisha 37,Backpack,Stationery,4,1237.9,Chennai,UPI
+10999,2026-03-12,C036,Rohan 36,Wardrobe,Home,4,16080.46,Bangalore,Net Banking
+11000,2026-04-06,C047,Aditya 47,Jacket,Fashion,4,2829.15,Mumbai,Cash on Delivery
